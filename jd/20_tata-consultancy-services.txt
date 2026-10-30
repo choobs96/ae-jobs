@@ -1,0 +1,32 @@
+# Tata Consultancy Services | Data Engineer/Architect with Snowflake
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineerarchitect-snowflake-tata-consultancy-services-asia-pacific-ebb65eaedd862d16c12ff5d2d95622a3
+
+Data Engineer/Architect with Snowflake
+We are seeking a strong Data Engineering Architect, who has experience with Snowflake! 
+ Must Have Experience with below skill set 
+ · Python
+ · Advanced SQL
+ · Data pipelines / ETL / ELT
+ · ***MUST HAVE experience in Snowflake 
+ · Data modeling
+ · dbt
+ · Airflow or equivalent
+ · Cloud — AWS/Azure/GCP
+ · Git + CI/CD
+ · Data quality & governance
+ Strong Plus 
+ · Spark / PySpark
+ · Kafka / streaming
+ · Iceberg / Delta Lake
+ · Docker/Kubernetes
+ · Data observability
+ · Semantic layer
+ · Cost/performance optimization
+ GenAI 
+ · RAG
+ · AI agents
+ · MCP
+ · GenAI-ready data architecture
+ · Building agents that securely interact with enterprise data
+
+MCF skills tags: Requirements Gathering, PySpark, Management Consulting, Data Modelling, Optimization of Costs, Informatica, ETL, Predictive Analytics, DBT, SQL, Python, Revolution, Apache Kafka, Semantic Layer, Training Skills, S-PLUS

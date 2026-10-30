@@ -1,0 +1,27 @@
+# Optimum Solutions | Data Engineer (AWS, Central Location)
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-optimum-solutions-625861d4faf1c39e8ba027e7b7ec7323
+
+Data Engineer (AWS, Central Location)
+Our client is looking for a Senior Data Engineer to design, build and operate enterprise-grade data platforms supporting analytics, data science and digital products. The role will contribute to data architecture, engineering standards and technical decision-making in a complex enterprise environment.
+ Responsibilities 
+ Design, build and maintain scalable data architectures and pipelines for data ingestion, transformation and delivery.
+ Develop robust data models and reusable data capabilities for analysts, data scientists and applications.
+ Improve the reliability, security, performance, observability and maintainability of data platforms.
+ Evaluate technologies and architectural approaches, making sound technical trade-offs and contributing to engineering standards.
+ Champion modern engineering practices including automated testing, code reviews, CI/CD and Infrastructure-as-Code.
+ Collaborate with engineers, Product Managers, Data Scientists and analysts, while providing technical leadership, mentoring and knowledge sharing.
+ Requirements 
+ 7+ years of experience in software/data engineering with strong Python and SQL skills. 
+ Experience with AWS and modern data platforms such as Redshift, Snowflake, Databricks or BigQuery. 
+ Strong experience in enterprise data architecture and engineering, including production data systems.
+ Hands-on experience designing data pipelines, data models, data warehouses, data lakes or lakehouse architectures.
+ Experience with data orchestration, transformation and modelling.
+ Strong understanding of production engineering practices including testing, CI/CD, monitoring, troubleshooting and data quality.
+ Good to Have 
+ Experience with Apache Airflow, dbt and/or Apache Spark.
+ Strong knowledge of AWS data services and cloud infrastructure.
+ Experience with Tableau, Power BI or similar BI tools.
+ Knowledge of Infrastructure-as-Code, data observability, metadata, data catalogues or data lineage.
+ Experience working with sensitive or regulated data.
+
+MCF skills tags: Code Review, Collaborate With Engineers, Design, Data Modelling, Data Orchestration, Data Warehouse Architectures, SQL Programming, Monitoring, Enterprise Architecture, CI/CD, Data Infrastructure, Amazon Relational Database Services, Data security platforms, compliance with engineering standards, Production Engineering, BigQuery

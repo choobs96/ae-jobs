@@ -1,0 +1,51 @@
+# Pathsource Consulting | Senior Big Data Engineer (Compute & Transformation) – Contract
+# https://www.mycareersfuture.gov.sg/job/engineering/senior-big-data-engineer-%E2%80%93-contract-pathsource-consulting-ffbe19103ecb9119c3589dfad1826b41
+
+Senior Big Data Engineer (Compute & Transformation) – Contract
+The client is a Singapore-based data consultancy seeking a hands-on Senior Infrastructure Engineer to deploy and operate the compute and transformation layer of a large-scale on-premise data platform.
+ This is an initial contract position, with the potential for extension or conversion to a permanent position based on business requirements and individual performance.
+ Key Responsibilities
+ · Design, deploy and operate distributed compute, query and transformation services in an on-premise or hybrid environment.
+ · Containerise platform components using Docker and deploy and operate production workloads on Kubernetes.
+ · Build and support large-scale processing and query services using Spark, Trino and ClickHouse.
+ · Develop and maintain governed transformation workflows using dbt.
+ · Integrate compute services with Apache Iceberg tables and Apache Polaris catalogues.
+ · Tune workload performance, resource allocation, concurrency and reliability for terabyte- or petabyte-scale data.
+ · Implement monitoring and logging using VictoriaMetrics and VictoriaLogs or comparable observability tools.
+ · Troubleshoot distributed-system, workload, storage-integration and production-performance issues.
+ · Produce technical documentation, operating procedures and deployment runbooks.
+ · Work directly with technical stakeholders and contribute as a senior individual contributor.
+ Requirements
+ · Minimum six years of hands-on experience in data-platform, big-data infrastructure, distributed systems or a closely related role.
+ · Production experience with both Docker and Kubernetes is mandatory.
+ · Strong experience deploying and operating distributed data workloads in on-premise or hybrid environments.
+ · Hands-on experience with distributed compute and query technologies such as Spark, Trino and ClickHouse.
+ · Practical experience with data transformation and lakehouse technologies including dbt, Apache Iceberg and Apache Polaris.
+ · Experience monitoring platform workloads through VictoriaMetrics, VictoriaLogs or comparable technologies.
+ · Strong understanding of Linux, networking, resource management, performance tuning, high availability and recovery.
+ · Experience supporting high-volume platforms at terabyte or petabyte scale.
+ · Ability to operate independently and communicate effectively with client and technical stakeholders.
+ · Willingness to accept a six-to-twelve-month contract and attend client locations when required.
+ Preferred Experience
+ · Data-platform delivery within regulated sectors such as banking, fintech, healthcare or data centres.
+ · Experience with Kubernetes Operators, Helm, CI/CD and infrastructure automation.
+ · Experience integrating compute engines with distributed storage such as Ceph.
+ This position focuses on the compute and transformation infrastructure of a data platform. It is not primarily a business-intelligence, dashboarding, visualisation or data-analyst role. 
+ How to Apply
+ Submit your application by emailing your updated resume in MS Word format to:
+ Wills Heng Wei He 
+EA Personnel Registration No. R1549842
+Email: wills.heng@path-source.com
+ For JobSeekers Free Resume Review
+ See your resume through a recruiter's eyes. Get a FREE PathSource Resume Score and review report to understand how your resume may be coming across and what you can improve next.
+ Submit your resume for a free review and, with your consent, join PathSource Consulting's talent network to be considered for suitable future opportunities.
+ resume.path-source.com 
+ Optional career resource only. Participation is not required and does not affect consideration for this vacancy. 
+ For Immediate Consideration
+ Please indicate the following information in your resume:
+ · Current and expected salary
+ · Reason or reasons for leaving
+ · Availability to commence work
+ By submitting an application or resume to us, you consent to PathSource Consulting collecting, using, retaining and disclosing your personal information to prospective employers for recruitment purposes.
+
+MCF skills tags: Snowflake Cloud Data Warehouse, Distributed Database, Service Transformation, Distributed Processing, Adobe Spark, Design, Apache Spark, Storage Architecture, ClickHouse, Log Management, Workflow Development, managing workload, Resource Allocation, Hands-On Experience, Data Infrastructure, Docker Container

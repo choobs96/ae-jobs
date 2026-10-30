@@ -1,0 +1,50 @@
+# Coda | Senior Data Analyst
+# https://www.linkedin.com/jobs/view/4454360058
+
+Senior Data Analyst
+Why Coda
+ Coda is a global growth engine for commerce, connecting people, digital products, and payments through trusted monetization and distribution solutions.
+With 600+ people from 57 nationalities across 23 locations, we’re a truly global team headquartered in Singapore, with offices in Amsterdam, Dubai, Bristol, Shanghai, Eindhoven, and across Southeast Asia.
+We power global commerce through a dual model. Our B2B solutions, Codapay, Coda Webstore, Coda Links, Coda Distribution, and Giftcloud, enable publishers and brands to monetize and distribute digital content globally. On the consumer side, we operate a portfolio of trusted storefronts including Codashop, Recharge.com, Startselect.com, and mobiletopup.co.uk, that give customers secure and easy access to game top-ups, digital credits, vouchers, gift cards and prepaid products in over 70 markets.
+Our culture is built on respect, ownership, and collaboration. We move fast, support each other, and celebrate wins together.
+If you’re looking to grow your career and make a real impact in a global team, Coda is the place for you.
+ Data Science & Analytics at Coda
+ At Coda, the Data Science & Analytics team turns data into business decisions.
+We work closely with Commercial, Account Management, Marketing, Pay/Risk, Finance, and Product teams. Our work directly influences revenue growth, margin performance, risk management, campaign effectiveness, and operational efficiency.
+Our stack runs on AWS, with dbt for transformation, Athena and Spark over an Iceberg and Parquet data lake, Python for analysis, and BI tools including QuickSight, Tableau, and Looker. We are also building a stronger analytics foundation: moving from fragmented legacy reporting to trusted Gold datasets, clearer metric ownership, and stronger semantic-layer practices.
+ The Opportunity
+ We are hiring a Senior Data Analyst / Analytics Engineer to own high-impact commercial analytics across Coda.
+This role sits at the intersection of business analytics, dashboarding, metric governance, and analytical data modeling. You will support Commercial, Account Management, Marketing, Pay/Risk, and Finance by turning raw data into trusted metrics, decision-ready dashboards, and clear business recommendations.
+This is not a reporting-only role. We are looking for someone who can sit with business leaders, understand the decision that needs to be made, go deep into the data, and come back with a clear point of view.
+The ideal candidate is commercially sharp, technically strong, comfortable with ambiguity, and able to move quickly without compromising analytical quality.
+ What You'll Do
+ Own analytics for Commercial and Account Management use cases, including publisher performance, portfolio health, margin trends, pricing impact, product performance, and opportunity sizing. 
+ Support Commercial, Pay/Risk, Marketing, and Finance teams with fast, high-quality analysis that helps diagnose trends, quantify impact, and drive business action. 
+ Translate ambiguous business questions into structured analysis, clear recommendations, and decision-ready outputs. 
+ Build and maintain trusted analytical datasets in dbt, helping define shared business logic and improve the quality of Coda’s Gold layer. 
+ Help codify key metrics through semantic-layer tools such as LookML, the dbt semantic layer, or similar governed BI patterns. 
+ Build dashboards in Tableau, Looker, and QuickSight that business teams actually use to monitor performance, identify issues, and make decisions. 
+ Improve data quality and trust through dbt tests, freshness checks, anomaly detection, documentation, and root-cause analysis. 
+ What You'll Bring
+ 5+ years of experience as a Data Analyst, Analytics Engineer, BI Analyst, or similar role. 
+ Strong SQL skills and experience working with large, complex datasets. 
+ Strong business analytics experience, ideally in payments, fintech, eCommerce, gaming, digital commerce, marketplaces, or high-growth internet businesses. 
+ Experience translating ambiguous business questions into structured analysis and clear recommendations. 
+ Experience building dashboards in Tableau, Looker, QuickSight, Power BI, or similar tools. 
+ Production experience with dbt, including models, tests, documentation, and reusable transformation patterns. 
+ Familiarity with semantic-layer concepts such as LookML, dbt semantic layer, Cube, metrics layers, or governed BI models. 
+ Working knowledge of AWS data tools such as Athena, S3, Glue, EMR, Redshift, or similar cloud data platforms. 
+ Python skills for analytical work, especially pandas, numpy, and basic statistical analysis. 
+ Strong understanding of business metrics such as TPV, revenue, gross profit, margin, conversion, retention, campaign performance, fraud/risk metrics, and account performance. 
+ Strong written and verbal communication skills, especially with business and leadership stakeholders. 
+ Ability to work independently, prioritize well, and move quickly in a fast-changing business environment. 
+ Bonus if you have
+ Experience with Iceberg, Parquet, or modern lakehouse architectures. 
+ Experience migrating from legacy BI/reporting environments to governed semantic layers. 
+ Experience with marketing measurement, attribution, incrementality, A/B testing, geo tests, or matched-market tests. 
+ Experience working with payment, fraud, risk, or transaction data. 
+ Experience supporting Commercial, Account Management, Finance, or executive stakeholders. 
+ Exposure to ML workflows, SageMaker, or AI-assisted analytics workflows. 
+ We are proud to be an equal opportunity employer, embracing the unique qualities of every individual, regardless of gender, race, age, religion, disability, or other local protected classes. Our goal is to foster an inclusive environment where everyone feels welcome and valued.
+Due to the large number of exceptional applications we receive, we can only reach out to shortlisted candidates. If you don't hear from us, rest assured there may be another opportunity at Coda that aligns better with your unique abilities. Remember to check our Careers Page for more exciting job openings!
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

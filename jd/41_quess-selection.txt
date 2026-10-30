@@ -1,0 +1,39 @@
+# Quess Selection (agency) | Data Engineer
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-quess-selection-services-ba8ac22b4fb04ea2fee5228ff4dde7a5
+
+Data Engineer
+Key Responsibilities
+ Design, develop, and maintain scalable data pipelines and platform solutions across AWS cloud and hybrid/on-premises environments.
+ Build and optimize ETL/ELT workflows using Python, PySpark, SQL, and cloud-native technologies.
+ Develop and support data lakes, lakehouse architectures, metadata management, search platforms, and AI-enabled services.
+ Implement and maintain CI/CD pipelines, automated testing frameworks, Infrastructure as Code (IaC), and deployment processes.
+ Integrate and support AWS services and platform technologies, including OpenSearch, Amazon Bedrock, AgentCore, and Model Context Protocol (MCP).
+ Monitor and optimize platform reliability, security, performance, observability, and cloud costs.
+ Troubleshoot production issues, perform root cause analysis, and ensure platform stability and operational excellence.
+ Collaborate with cross-functional teams to drive platform modernization, automation, and continuous improvement.
+ Mandatory Requirements
+ 3–5+ years of hands-on experience developing and supporting production-grade data pipelines using SQL, Python, and cloud technologies.
+ Practical experience with AWS cloud services and/or hybrid cloud environments.
+ Strong Linux/Unix administration, shell scripting, and production support capabilities.
+ Solid understanding of data engineering principles, distributed processing, and enterprise platform operations.
+ Technical Skills
+ Data Engineering: ETL/ELT, data lakes, lakehouse architecture, distributed data processing, SQL, Python, PySpark, and Apache Spark.
+ AWS & Cloud Platforms: AWS Glue, EMR, S3, Redshift, Lambda, and Amazon Bedrock.
+ Data & Streaming Technologies: Apache Airflow, dbt, Kafka/MSK, Apache Iceberg, Hive, Trino, and Presto.
+ Search & AI Platforms: OpenSearch, AgentCore, MCP, and AI service integration.
+ DevOps & Platform Engineering: Git, CI/CD, DevOps practices, Infrastructure as Code (IaC), and automated testing.
+ Monitoring & Observability: CloudWatch, Datadog, Grafana, and Prometheus.
+ Preferred Qualifications
+ Experience building and supporting data lake and lakehouse platforms.
+ Knowledge of streaming pipelines and event-driven architectures.
+ Hands-on experience with OpenSearch administration, performance optimization, and tuning.
+ Familiarity with monitoring, logging, alerting, and observability tools.
+ Understanding of data governance, security, access controls, and Personally Identifiable Information (PII) protection.
+ Experience supporting enterprise platforms within banking, insurance, or financial services environments.
+ Ankita
+ EA License Number: 23C2060 Registration ID is R22109715
+ Disclaimer: The company is committed to ensuring the privacy and security of your information. By submitting this form, you consent to the collection, processing, and retention of the information you provide. The data collected (which may include your contact details, educational background, work experience and skills) will be used solely for the purpose of evaluating your qualifications for the position you're applying for. Your data will be stored securely and retained for the duration necessary to fulfill our hiring process. If you are not selected for the position, your data will be kept on file for a limited period in case future opportunities arise. You have the right to access, correct, or delete your data at any time by contacting us at Quess Singapore | A Leading Staffing Services Provider in Singapore (quesscorp.sg)
+ This is in partnership with the Employment and Employability Institute Pte Ltd (“e2i”).
+ e2i is the empowering network for workers and employers seeking employment and employability solutions. e2i serves as a bridge between workers and employers, connecting with workers to offer job security through job-matching, career guidance and skills upgrading services, and partnering employers to address their manpower needs through recruitment, training, and job redesign solutions. e2i is a tripartite initiative of the National Trades Union Congress set up to support nation-wide manpower and skills upgrading initiatives. By applying for this role, you consent to Quesscorp Singapore’s PDPA and e2i’s PDPA
+
+MCF skills tags: Distributed Processing, Amazon Bedrock, ETL Tools, Pipeline Management, Data Pipeline, AWS, Platform Modernization, Search Engine Optimisation (SEO), reliability monitoring, Root Cause Analysis, Monitoring Concepts, Cloud Infrastructure, Production Support, Data Lake, Event-Driven Architecture (EDA), Hybrid Cloud

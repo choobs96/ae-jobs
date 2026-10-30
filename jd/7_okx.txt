@@ -1,0 +1,60 @@
+# OKX | Staff Data Engineer, Finance Data Platform (HK/SG)
+# https://job-boards.greenhouse.io/okx/jobs/7765811003
+
+Staff Data Engineer, Finance Data Platform
+Who We Are 
+ At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves. Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more.
+ About the team 
+ The Finance Data Team is responsible for the data infrastructure that powers OKX's compliance, regulatory, and financial reporting operations globally. Our Finance Data domain covers everything from raw transaction ingestion to consolidated group financials — supporting statutory reporting, board-level financials, and audit readiness across 100+ markets.
+ This is a team that treats data correctness as a non-negotiable. We operate at the intersection of engineering rigour, financial domain knowledge, and regulatory accountability.
+ About the role 
+ We are looking for a Staff Data Engineer to be the technical anchor for Finance Data at OKX. You will define how Finance data is architected, validated, and delivered, and set the standard for how the team operates in an AI-native way.
+ You will work directly with Finance, Accounting, and Treasury stakeholders to ensure that financial data is complete, reconciled, traceable, and audit-ready. You will also be the domain's primary escalation point and the technical voice of Finance Data within the broader engineering organisation.
+ This role suits someone who has operated as a de facto domain lead before — someone who has built financial data systems that have been reviewed by auditors, regulators and who knows what "good" looks like in a regulated financial data environment.
+ Responsibilities: 
+ Domain Architecture & Technical Direction
+ Own the end-to-end Finance data architecture: from ODS ingestion through CDM transformation to reporting mart, with clear data lineage documented at every layer
+ Define and enforce data modelling standards for Finance: period cut-off immutability, multi-entity consolidation logic, revenue recognition alignment, and audit trail completeness
+ Lead the design of scalable pipelines supporting trading data, asset positions, P&L, and cost accounting across multiple legal entities and jurisdictions (SG, EU, US, and others)
+ Make architectural decisions independently and articulate trade-offs clearly to both engineering peers and non-technical Finance stakeholders
+ Financial Reporting & Audit Readiness
+ Partner with Accounting, Finance PMO, and Treasury to deliver datasets for month-end close, statutory reporting, and board-level financials on time and to audit standard
+ Ensure every financial figure is traceable back to the source system with full transformation history — no black boxes
+ Build the data foundation that supports OKX's regulatory reporting obligations and long-term financial reporting maturity
+ Data Quality & Controls
+ Design proactive, self-validating DQC frameworks — reconciliation logic, SLA monitoring, and anomaly detection built into pipelines, not bolted on after incidents
+ Own incident response for Finance-critical pipeline failures; conduct structured post-mortems and drive permanent fixes
+ Define "done" for financial correctness in partnership with Accounting; hold the line on data quality standards even under delivery pressure
+ AI-Native Finance Data
+ Lead the team's adoption of AI-assisted engineering: LLM-assisted development, automated anomaly detection, intelligent reconciliation, AI-generated reporting summaries
+ Evaluate and introduce AI tooling into Finance data workflows with production evidence — not POC demos
+ Set the bar for what an AI-native Finance data team looks like, and bring junior engineers along
+ Technical Leadership & Influence
+ Be the go-to escalation point for Finance data domain questions across the team
+ Mentor and grow engineers working in the Finance domain; translate domain complexity into learnable patterns
+ Represent Finance Data in cross-team architecture discussions, sprint planning, and stakeholder reviews
+ Document domain knowledge that outlasts any individual — data dictionaries, pipeline specs, onboarding guides
+ Requirements: 
+ 6+ years in data engineering, with at least 3 years owning a Finance, Accounting, or financial reporting data domain end-to-end
+ Deep understanding of financial data fundamentals: period close and cut-off rules, revenue recognition, multi-entity consolidation, reconciliation, and audit trail requirements
+ Demonstrated experience building data systems that have been reviewed in a statutory audit or regulatory review 
+ Strong SQL and Python; proven ability to design and maintain complex production pipelines at scale
+ Experience designing for immutability and lineage — financial data that can be rolled back, re-run, and traced without manual intervention
+ Track record of operating with significant autonomy: defining requirements from ambiguous stakeholder input, not just executing tickets
+ Preferred Qualifications: 
+ Experience at a crypto exchange, fintech, or company that has gone through IPO preparation or public company financial reporting 
+ Familiarity with regulatory reporting requirements across multiple jurisdictions (MAS SG, SEC, FCA, or equivalent)
+ AI/ LLM tooling applied to data engineering workflows in production — concrete examples required; "exploring" does not count
+ Experience with Spark, Airflow, or equivalent orchestration at scale
+ Prior experience as a de facto domain lead or tech lead without formal people management title
+ Background working with Accounting/Controllership teams as a technical counterpart
+ Perks & Benefits: 
+ Competitive total compensation package
+ L&D programs and Education subsidy for employees' growth and development
+ Various team building programs and company events
+ Wellness and meal allowances 
+ Comprehensive healthcare schemes for employees and dependants 
+ More that we love to tell you along the process!
+ Notice:
+ All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website. 
+ Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX 's Candidate Privacy Notice .

@@ -1,0 +1,40 @@
+# Momcozy | Staff Data Platform Engineer (DataOps)
+# https://www.linkedin.com/jobs/view/4478405318
+
+Staff Data Platform Engineer (DataOps)
+About the Role 
+ We are looking for a Staff Data Platform Engineer to lead the architecture and hands-on delivery of a modern data platform. As a senior individual contributor, you will drive technical alignment across regions and help distributed data teams work with a consistent, secure, and reliable development and operational experience. This role exists to build our overseas data platform from 0 to 1. A unique challenge of this role is that you will not see raw data content due to compliance isolation, so you must design ways to verify that data is correctly ingested into the warehouse without direct access to it. This role has no direct people-management responsibility and relies on sound architectural judgment, clear standards, and technical influence.
+ Who You'll Work With 
+ Reports to: Head of Big Data & Algorithm (China HQ)
+ Collaborates with: Data engineering teams across regions, product, engineering, security, and business teams; HQ infrastructure team
+ Team context: Senior IC role; drives architecture decisions across Singapore and China teams; works across time zones
+ Responsibilities 
+ Design and evolve a data architecture built on Databricks or a comparable lakehouse platform, covering compute, storage, catalog, access control, environment isolation, and data serving
+ Define the target modern data stack and evaluate how dbt, MetricFlow, semantic layers, orchestration, metadata, data quality, observability, and BI services fit together
+ Build development, testing, and production environments, together with CI/CD for code, configuration, data models, and infrastructure
+ Establish platform standards, architectural principles, and technical decision practices across regions and teams
+ Partner with data, product, engineering, security, and business teams to clarify requirements and develop actionable technical solutions
+ Contribute directly to implementation, design reviews, releases, production troubleshooting, and major incident reviews
+ Continuously improve reliability, security, performance, cost efficiency, and developer experience
+ Requirements 
+ Must-Have
+ Bachelor's degree or above in Computer Science, Software Engineering, or a related field, or equivalent industry experience
+ 8+ years of experience in data platforms, data infrastructure, or distributed systems, or equivalent practical expertise
+ Proven experience designing and delivering large-scale data platforms in production, with the ability to explain architectural trade-offs and evolution paths
+ Strong proficiency in Python, SQL, Spark, and distributed data processing
+ Experience with cloud infrastructure, lakehouse architecture, IAM, infrastructure as code, CI/CD, and production observability
+ Legally authorized to work in Singapore; this role does not provide visa sponsorship
+ Nice-to-Have
+ Production experience with Databricks, dbt, MetricFlow, or another semantic-layer technology
+ Experience building a shared data platform for analytics, machine learning, or generative AI workloads
+ Experience with cross-region data platforms, data access controls, or data residency requirements
+ Experience leading platform migrations, technology-stack modernization, or developer-platform initiatives
+ Language 
+ Professional working proficiency in English (CEFR B2 or above)
+ Mandarin Chinese at professional working level is required for collaboration with China HQ leadership
+ What We Offer 
+ Opportunity to architect and build a global data platform from the ground up
+ Senior IC scope with direct influence on technical direction across regions
+ Exposure to cutting-edge data stack and compliance challenges
+ Competitive compensation and benefits package
+ Flexible working policy

@@ -1,0 +1,27 @@
+# hermeneutic research (prop trading) | Senior Data Engineer
+# https://sg.jobstreet.com/job/95325060
+
+# hermeneutic research — Senior Data Engineer (Singapore, full time)
+
+Source: https://sg.jobstreet.com/job/95325060 (captured 2026-10-19 via browser; posted ~2026-10-16). No salary listed.
+Prop trading firm: discretionary + systematic strategies. Role: architect, build and operate the full data pipeline for Research and Trading.
+
+## Responsibilities
+- Scalable pipelines ingesting/transforming large datasets: market data, news feeds, unstructured sources
+- Data quality, consistency, real-time monitoring (dbt, validation libraries)
+- Normalise and organise the warehouse for use across departments
+- Scalability, availability, storage efficiency; integrity, security, performance at scale
+- Work with research/analytics teams; frameworks for exploration, analysis, model development; overlay data from multiple sources
+- Cost-effective storage and processing
+- Evaluate and adopt new technologies
+
+## Must-haves
+Problem solving; clear cross-functional communication; robust data quality checks on ingested data; identifying anomalies in ingested data; complex SQL + performance tuning; Python or Java/Scala; complex ETL with Airflow, dbt or custom scripts; dimensional modelling, star/snowflake schemas, (de)normalisation; Snowflake/Redshift/BigQuery/Synapse; **expert** Spark, Kafka, Flink or similar; data security and privacy.
+
+## Preferred
+CS/Eng/Maths degree; AWS/GCP/Azure data services + certification; Great Expectations/Deequ; Git; Terraform/CloudFormation; Docker/Kubernetes; governance, lineage, catalog (Atlas, Amundsen); pipeline observability (Monte Carlo, Datadog); ML pipelines; trading/financial services.
+
+## Interview process
+CV screen → HR → technical (multiple stakeholder teams) → CTO → co-founder.
+Values: Drive, Ownership, Judgment, Openness, Competence, Resilience.
+

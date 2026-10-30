@@ -1,0 +1,25 @@
+# Traveloka | Senior Lead Data Engineer
+# https://www.linkedin.com/jobs/view/4477689992
+
+Senior Lead Data Engineer
+Job Description 
+ Job ID: MJ000352
+ We are looking for a Staff / Lead Data Engineer to own the architecture and evolution of our enterprise data warehouse. You will define how data is modelled, governed, and consumed across the organisation, creating a scalable foundation for analytics, reporting, and downstream data products.
+This is a hands-on technical leadership role for someone who has personally designed and scaled complex data warehouse architectures, rather than only building pipelines within an existing framework.
+Key Responsibilities
+ Own the end-to-end data warehouse architecture, including raw, staging, core/conformed, and data mart layers. 
+ Design scalable models for complex transactional domains such as bookings, payments, cancellations/refunds, amendments, supplier/customer flow data. 
+ Establish a single, governed metrics and definition layer to ensure consistency across business units and downstream consumers. 
+ Define and enforce data modelling, data contracts, quality, and engineering standards. 
+ Partner with Analytics, Data Science, Product, Finance, and business teams to translate requirements into scalable data solutions. 
+ Lead technical and design reviews and act as a trusted advisor for complex data architecture decisions. 
+ Mentor Data Engineers and raise the overall engineering and modelling standards of the team. 
+ Requirements
+ Minimum 10+ years of Data Engineering experience, with experience operating at Staff, Lead, Principal, or equivalent level preferred. 
+ Proven experience designing large-scale data warehouses from the ground up. 
+ Strong knowledge of dimensional modelling, Data Vault, conformed models, and modern data architecture principles. 
+ Advanced SQL skills and hands-on experience with BigQuery, dbt, or equivalent technologies. 
+ Experience designing semantic/metrics layers and data contracts across multiple consumers. 
+ Strong understanding of large-scale transactional data and complex business logic. 
+ Strong technical leadership with experience reviewing architecture and mentoring other engineers. 
+ Experience in OTA, travel tech, e-commerce, marketplace, fintech is highly preferred.

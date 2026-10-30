@@ -1,0 +1,36 @@
+# Filtrona | Senior Data Engineer
+# https://www.linkedin.com/jobs/view/4469706929
+
+Senior Data Engineer
+We are seeking a technically strong, hands-on Senior Data Engineer to build, develop, and optimize our enterprise data platform in a manufacturing environment. This role combines deep technical expertise in Microsoft Fabric, SAP CDS Views, MES, Salesforce, and Power BI / Power Automate. 
+ You will be responsible for building scalable data pipelines, integrating IT and OT systems, and delivering trusted, high-performance analytics that drive operational efficiency, production visibility, and business performance.
+ Key Responsibilities: 
+ 1. Data Engineering 
+ Build and optimize scalable data platforms using Microsoft Fabric (Lakehouse, Data Factory, Warehouse, Real-Time Analytics)
+ Develop and maintain robust ETL/ELT pipelines for batch and streaming data
+ Optimize data storage, transformation, and query performance for cost optimisation
+ Implement best practices in partitioning, indexing, and cost optimization
+ 2. BI Development & Analytics Delivery 
+ Develop dashboards and reporting solutions using SQL, Power BI/Query/Automate and writing DAX formulas
+ Ability to write Python for data manipulation and advanced analytics.
+ Implement reusable semantic models and standardized datasets
+ Enable self-service analytics while maintaining performance and governance
+ Translate business requirements into technical data solutions
+ 4. Data Governance, Security & Quality 
+ Ensure compliance with regulatory standards (e.g., GDPR, SOX where applicable)
+ Enforce data standards, naming conventions, and access controls
+ 5. BAU & Reliability 
+ Monitor pipelines with logging, alerting, and observability tools
+ Troubleshoot and resolve performance bottlenecks and data issues
+ Data quality monitoring and validation pipelines
+ What we are looking for: 
+ 6+ years of hands-on experience in data engineering, BI, or analytics roles; in manufacturing environment preferred
+ Strong expertise in Microsoft Fabric (Data Factory, Lakehouse, Warehouse, Real-Time Analytics) and Azure cloud platforms
+ Proven experience with: SAP CDS Views; preferably with MES and Salesforce data integration and reporting experience in manufacturing environments 
+ Advanced SQL and strong data modeling skills
+ Hands-on experience with Power Query, Automate and Power BI
+ Bachelor’s or Master’s degree in Computer Science, Engineering, Information Systems, Data Analytics or related field
+ Strong communication, stakeholder management, and documentation skills
+ Analytical mindset with attention to detail and problem-solving capability
+ Experience with Agile delivery practice
+ Prior experience managing vendors or external partners preferred

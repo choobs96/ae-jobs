@@ -1,0 +1,28 @@
+# JonDavidson (agency) | Data Engineer (Smart TV OS)
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-jondavidson-371984408c1e061617cf9726ee509ae5
+
+Data Engineer (Smart TV OS)
+We are seeking an experienced Senior Data Engineer to join our fast-growing global team. In this role, you will lead the end-to-end design, construction, and iteration of our real-time business data ingestion systems and streaming data warehouse architecture.
+ You will work at the intersection of high-scale real-time data streaming, cloud analytics platforms, and business-critical analytics engines to support real-time dashboards, user profiling platforms, and business monitoring systems.
+ Key Responsibilities 
+ Ingestion Pipeline Ownership: Own the lifecycle development of real-time collection, cleaning, and warehousing of business logs, user behavior data, and database operational logs to guarantee pipeline stability, completeness, and low latency.
+ Real-Time Data Warehouse Architecture: Design multi-layer real-time data models, build and tune streaming ETL pipelines, and support continuous delivery of real-time business metrics and analytics.
+ Kafka & Streaming Optimization: Maintain and optimize core Kafka streaming infrastructure. Diagnose and resolve online challenges including message backlogs, data skew, message loss, duplication, and partition tuning.
+ Spark & Flink Operations: Develop, tune, and operate real-time Spark/Flink tasks to maximize computing resource utilization, throughput, and sub-second latency.
+ Cross-Functional Collaboration: Partner with data product managers, analysts, and business stakeholders to translate complex business requirements into scalable, production-ready data pipelines.
+ Data Quality & Governance: Establish data standardization practices, automated data quality monitoring, alert thresholds, and SLA governance protocols.
+ Required Experience & Qualifications 
+ Education: Bachelor’s degree or higher in Computer Science, Software Engineering, Data Science, or a related technical discipline.
+ Work Experience: 3+ years of professional big data engineering experience in high-scale tech/internet environments with proven track records in real-time pipeline construction.
+ Core Technical Stack: 
+ Languages: Proficiency in Python , Scala , or Java with solid Shell/Linux scripting capabilities.
+ Streaming Infrastructure: Expert-level knowledge of Apache Kafka (partitioning strategies, consumer mechanisms, lag mitigation, deduplication).
+ Compute & Processing: Strong hands-on experience with Apache Spark (Spark SQL) and Apache Flink (Flink SQL) for streaming task optimization.
+ Ingestion & CDC: Hands-on experience with Change Data Capture (CDC) and Binlog real-time synchronization from operational databases.
+ Cloud Ecosystems: Exposure to cloud-native platforms ( Google Cloud Platform / BigQuery, Azure, Databricks, dbt ).
+ Languages & Communication: Professional working fluency in English (verbal and written) for cross-border collaboration.
+ Preferred Qualifications 
+ Prior experience studying or working internationally or collaborating across cross-border remote tech teams.
+ Hands-on knowledge of real-time SLA governance, incident post-mortem processes, and automated alerting frameworks.
+
+MCF skills tags: Expert Systems, Spark SQL, Apache Spark, Collaborating With Product Managers, Data Synchronization, ETL Tools, Pipeline Management, Software Engineering, Problem Identification, Data Quality Assurance, DBT, Core Technologies, Apache Kafka, Data Science, Java, BigQuery

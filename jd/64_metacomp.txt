@@ -1,0 +1,83 @@
+# MetaComp | Data Engineering Director
+# https://www.linkedin.com/jobs/view/4476272570
+
+Data Engineering Director
+About Us 
+ MetaComp Pte Ltd is a leading Singapore-based digital payment solution provider, licensed and regulated by the Monetary Authority of Singapore (MAS) as a Major Payment Institution, to provide Digital Payment Token Services and Cross-border Payment Transfers. Operating under a P2B2C (platform-to-business, partners-to-clients) model, MetaComp provides its clients with an integrated end-to-end suite of services, empowering them to confidently enter the digital asset market with much-needed safety, security, and compliance assurance. Together with its parent company, Metaverse Green Exchange Pte. Ltd. (a MAS-licensed CMS holder permitted to carry out, inter alia, brokerage and custody services), MetaComp introduces its suite of services through CAMP (Client Assets Management Platform) which allow businesses to develop and scale their digital asset offerings through various products and/or services such as over-the-counter transactions, fiat payments, digital asset custody and prime brokerage.
+ About the Role 
+ We are looking for a Director of Data to lead the company’s data strategy, database management, data platform, governance, analytics, and AI-enablement capabilities.
+ You will build a secure, reliable, and AI-ready data foundation supporting critical applications, business intelligence, regulatory compliance, product development, and enterprise AI agents. This role requires a hands-on leader who can connect data architecture and governance with measurable business and AI outcomes.
+ What You’ll Do 
+ Data Strategy and Leadership
+ Define and execute the company-wide data and AI-enablement strategy, architecture, operating model, and roadmap.
+ Establish clear ownership across database management, data engineering, governance, BI, analytics, and AI data products.
+ Build and lead a high-performing multidisciplinary data team.
+ Partner with Product, Engineering, AI, Operations, Compliance, Security, and Infrastructure teams.
+ Prioritize data investments based on business value, regulatory requirements, operational risk, and AI readiness.
+ Database Management and Reliability
+ Own the architecture, administration, security, reliability, and lifecycle management of production databases.
+ Establish standards for database design, schema management, performance tuning, capacity planning, upgrades, patching, and change control.
+ Ensure critical databases meet agreed availability, performance, backup, recovery, RTO, and RPO requirements.
+ Implement database monitoring, replication, high availability, disaster recovery, and operational runbooks.
+ Conduct regular restoration, failover, and resilience exercises with documented evidence.
+ Manage database access, encryption, privileged activity, audit logging, data masking, and segregation of duties.
+ Optimize database performance and cost without compromising reliability or security.
+ Data Platform and Engineering
+ Lead the development of a secure, scalable, and reliable cloud-based data platform.
+ Establish data warehouse, lakehouse, ETL/ELT, real-time streaming, orchestration, and data-serving capabilities.
+ Integrate structured and unstructured data from applications, transactions, documents, communications, and external sources.
+ Ensure data pipelines meet agreed standards for quality, availability, performance, security, observability, and recovery.
+ Define standards for data modelling, integration, testing, metadata, lineage, documentation, and lifecycle management.
+ Develop reusable, governed data products that can be consumed by applications, analytics, AI models, and agents.
+ AI-Ready Data and Intelligence
+ Establish the trusted data foundation required for generative AI, machine learning, predictive analytics, and enterprise agents.
+ Build governed pipelines for preparing, enriching, labelling, indexing, and serving structured and unstructured data to AI applications.
+ Enable technologies and patterns such as RAG, vector databases, semantic search, embeddings, feature stores, knowledge graphs, and real-time AI data services.
+ Define data-quality and freshness standards for AI use cases and prevent sensitive, restricted, or unreliable data from being used inappropriately.
+ Establish governance for AI datasets, including provenance, consent, access, retention, intellectual property, and permitted usage.
+ Partner with AI and application teams to evaluate model inputs, retrieval quality, grounding, traceability, and output reliability.
+ Build monitoring for AI data pipelines, knowledge freshness, retrieval accuracy, data drift, and usage.
+ Apply AI to improve data discovery, classification, quality management, reconciliation, anomaly detection, metadata generation, and operational automation.
+ Measure the business value, adoption, quality, risk, and cost of AI-enabled data products.
+ Data Governance, Security and Compliance
+ Establish enterprise governance covering data ownership, classification, definitions, quality, lineage, retention, access, and usage.
+ Implement effective controls for personal, financial, transactional, confidential, and regulated data.
+ Maintain a searchable data catalogue, business glossary, lineage, and ownership model for critical data.
+ Define data-quality standards and ensure critical issues are assigned and resolved within agreed SLAs.
+ Ensure compliance with applicable privacy, security, regulatory, and audit requirements.
+ Maintain appropriate evidence for regulatory reviews, internal controls, and external audits.
+ Business Intelligence and Analytics
+ Establish a consistent enterprise BI framework with trusted metrics, standardized definitions, and governed data models.
+ Deliver timely operational, financial, customer, risk, and management insights.
+ Develop executive dashboards, self-service analytics, and natural-language data experiences.
+ Enable AI-assisted analysis while maintaining accuracy, explainability, access control, and human oversight.
+ Reduce manual reporting and reconciliation through standardized data products and intelligent automation.
+ Translate business questions into actionable analysis, forecasts, and measurable outcomes.
+ What We’re Looking For 
+ 5+ years of experience across database management, data engineering, data platforms, analytics, or AI data, including significant leadership experience.
+ Proven experience defining and executing enterprise data strategies and building modern cloud data platforms.
+ Strong experience managing business-critical production databases in highly available environments.
+ Strong knowledge of relational and NoSQL databases, data architecture, data modelling, performance optimization, replication, backup, and recovery.
+ Experience with data warehouses, lakehouses, ETL/ELT, APIs, event streaming, and real-time data processing.
+ Practical understanding of generative AI, machine learning, RAG, embeddings, vector search, knowledge management, and AI data pipelines.
+ Experience preparing and governing enterprise data for AI and advanced analytics use cases.
+ Strong knowledge of data governance, quality, lineage, metadata, security, privacy, retention, and regulatory compliance.
+ Experience delivering enterprise BI, management reporting, and self-service analytics.
+ Demonstrated ability to lead cross-functional initiatives and influence senior business and technology stakeholders.
+ Strong business judgment, structured thinking, communication, and execution skills.
+ Preferred Qualifications
+ Experience in fintech, payments, banking, digital assets, or another regulated industry.
+ Experience managing high-volume transactional and financial data.
+ Experience with technologies such as AWS, PostgreSQL, MySQL, Oracle, RDS/Aurora, DynamoDB, Redis, Snowflake, Databricks, dbt, Airflow, Kafka, and Spark.
+ Familiarity with AI and data technologies such as vector databases, knowledge graphs, model gateways, LLM platforms, MLflow, feature stores, and AI evaluation frameworks.
+ Experience implementing data products for AI agents, intelligent automation, fraud detection, risk management, or customer analytics.
+ Knowledge of responsible AI, model risk, data privacy, cloud security, and operational-resilience requirements.
+ Success in This Role
+ Critical databases consistently meet availability, performance, security, backup, RTO, and RPO targets.
+ A scalable, production-ready, and AI-ready enterprise data platform is established.
+ Critical data has clear ownership, definitions, lineage, quality controls, and access policies.
+ AI applications and agents use trusted, governed, traceable, and up-to-date enterprise data.
+ Business reporting and AI-assisted insights are timely, consistent, accurate, and actionable.
+ Manual reporting, reconciliation, and data-management efforts are materially reduced.
+ Data and AI capabilities deliver measurable improvements in decision-making, customer experience, operational efficiency, risk management, and regulatory compliance.
+ We are committed to creating an inclusive workplace where every individual feels respected, valued, and empowered to contribute. We celebrate diversity in all its forms—background, ethnicity, gender, identity, orientation, experience, and thought—and believe it strengthens our culture and our work. We are proud to be an equal opportunity employer and do not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, or any other protected characteristic.

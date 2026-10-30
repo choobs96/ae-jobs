@@ -1,0 +1,24 @@
+# APAR Technologies | Data Engineer (Databricks / PySpark)
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-apar-technologies-e74c1fc1e930332305b70a27cbe3a39b
+
+Data Engineer (Databricks / PySpark)
+Key Responsibilities
+ Develop and maintain data pipelines using PySpark and Databricks.
+ Process and transform data using Delta Lake and SQL.
+ Optimize pipelines for performance and reliability.
+ Integrate data from APIs, databases, and files.
+ Implement data quality checks and monitor pipelines.
+ Collaborate with analysts and business teams to meet data requirements.
+ Requirements
+ 3–5 years of relevant data engineering experience.
+ Strong knowledge of Python, PySpark, and SQL.
+ Hands-on experience with Databricks and Delta Lake.
+ Experience with Azure, AWS, or GCP.
+ Knowledge of data modelling, ETL/ELT, Git, and CI/CD.
+ Preferred Skills
+ Databricks certification.
+ Experience with Unity Catalog, Airflow, or Azure Data Factory.
+ Knowledge of Kafka, Terraform, or dbt.
+ EA Number: 11C4879
+
+MCF skills tags: Data Quality Checks, Git, Business Data Analysis, PySpark, Data Modelling, Pipeline Management, File Systems, Database Systems, AWS, Data Transformation, ETL, Databricks, Data Engineering, Data Lake, CI/CD, GCP

@@ -1,0 +1,37 @@
+# Bank of Singapore | Data Analyst, BI Platform (VP)
+# https://www.linkedin.com/jobs/view/4468544960
+
+Data Analyst, Business Intelligence Platform (Vice President)
+Bank of Singapore opens doors to new opportunities.
+ At Bank of Singapore, we are constantly on the lookout for exceptional individuals to join our team. We promote a culture of openness, teamwork and fairness. Most importantly, we invest in our people through our programmes that develop them on both professional and personal levels. Besides attractive remuneration packages, we offer non-financial benefits and opportunities to develop your potential within OCBC Group’s global network of subsidiaries and offices. If you have passion, drive and the will to succeed, rise to the challenge today!
+We are seeking an experienced Power BI Developer to manage and govern the bank’s enterprise Power BI platform, with responsibility for Power BI Service running on Microsoft Fabric capacity and the controlled deployment of Power BI reports.
+The role will ensure that Power BI solutions are developed, reviewed, deployed, monitored, and maintained in line with enterprise best practices, internal governance standards, security requirements, and operational controls expected in a regulated banking environment.
+The candidate will act as the technical lead for Power BI development practices, platform governance, performance optimization, release management, and Python-script based deployment automation for reports published to the bank’s Power BI environments. The role will also require strong hands-on SQL capability to support data sourced from various platforms, including Starburst, AWS data services, and other enterprise data platforms.
+Key Responsibilities
+ Govern and maintain the bank’s enterprise Power BI platform, including Power BI Service, Microsoft Fabric capacity, workspaces, gateways, access controls, and platform standards.
+ Lead Power BI development practices and ensure reports, semantic models, dataflows, and dashboards are designed, reviewed, and delivered in line with enterprise best practices.
+ Write, review, and optimize SQL scripts supporting Power BI solutions, especially for data sourced from Starburst/Trino, AWS data platforms, on-premises databases, and other enterprise data sources.
+ Maintain controlled report deployment processes, including Python-based automation, Jenkins-based deployment workflows, release coordination, version control alignment, and operational support.
+ Monitor and improve platform reliability, refresh performance, report responsiveness, capacity consumption, and overall user experience.
+ Support data platform changes, migrations, and integration activities that impact Power BI reporting, ensuring continuity, performance, and compliance with internal controls.
+ Partner with business users, data engineering, infrastructure, security, and governance teams to promote secure, scalable, and well-managed analytics delivery.
+ Requirements
+ At least 8 to 10 years of relevant working experience 
+ Technical Skills
+ Microsoft Power BI Report Server, Power BI Service and Power BI Desktop
+ Microsoft Fabric capacity administration, monitoring, governance, and workload management for Power BI Service.
+ Data modeling
+ SQL Server Reporting Services (SSRS)
+ SQL (Starburst)
+ AWS data services and integration patterns relevant to analytics and reporting, including data access, connectivity, security, and performance considerations.
+ Python scripting
+ Jenkins for Power BI report deployment
+ Bitbucket for source code management
+ Microsoft Copilot Studio, Microsoft 365, Power Apps, Power Automate, and SharePoint: proven ability to integrate automated workflows and user-facing solutions into business environments.
+ Soft skills and competencies
+ Strong stakeholder management and communication skills, with the ability to translate technical constraints into clear business decisions and actionable recommendations.
+ Proven ability to coordinate delivery across developers, technology teams, security, risk, operations, vendors, and business stakeholders in a regulated environment.
+ Pragmatic problem-solving mindset, balancing tactical delivery with strategic architecture, governance, resilience, and long-term maintainability.
+ Effective planning and execution across roadmaps, milestones, dependencies, risks, and concurrent project tracks.
+ Comfortable challenging constructively, setting engineering expectations, mentoring developers, and acting as a trusted technical escalation point.
+ Autonomy, intellectual curiosity, sound judgement, attention to detail, and a strong drive for simplification and continuous improvement.

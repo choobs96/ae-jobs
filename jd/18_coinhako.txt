@@ -1,0 +1,123 @@
+# Coinhako | Data Engineer (Data Platform)
+# https://jobs.ashbyhq.com/coinhako/643cad9d-f6c2-4eb9-b34c-3e23d4869b63
+
+Data Engineer (Data Platform)
+We're looking for a Data Engineer to join our Data Platform team at Coinhako.
+
+Every dashboard, fraud signal, financial report and AI-driven analysis in the company depends on data being right. Our team runs the systems that make that true — the metadata repository, the ingestion and ELT pipelines, the warehouse, and the internal tools our teams use every day.
+
+This is a hands-on contributor role on a small team, working inside a platform direction that's already set. You'll own pieces end to end: a pipeline one week, an internal tool the next, a data-quality problem the week after. Some of it is systems that are already live and depended on — those become yours to run and improve. The rest is new.
+
+Crypto data does not behave. Upstream sources change shape without telling us. Numbers that look wrong are often correct, and numbers that look fine sometimes aren't. Most of the interesting work here is in knowing the difference — and building systems that hold up when you can't be sure.
+
+
+
+What you'll be doing:
+
+Write and run pipelines
+
+ - Write and operate ingestion and ELT pipelines (Airflow / MWAA) bringing in transactions, product events and third-party feeds
+
+ - Take a source we've never used and turn it into a table analysts trust
+
+ - Keep pipelines healthy — including ones you didn't write
+
+Contribute to guaranteeing the accuracy of our numbers
+
+ - Add quality checks that stop bad data reaching reports, and make missing data visible instead of silent
+
+ - Reconcile our numbers against independent sources
+
+ - Investigate when a number looks wrong, and be able to say why it was — or wasn't
+
+Contribute to the metadata layer
+
+ - Add to and maintain the metadata repository that pipelines, apps and analytics rely on
+
+ - Document datasets well enough that analysts and AI systems can use them without asking us
+
+Contribute to the internal tools
+
+ - Work on the backend and data layer behind the internal tools our teams depend on — the APIs they call and the metadata that drives them
+
+ - Help integrate AI (LLM / RAG, agentic analysis) into the platform and its tools
+
+Support the people who use it
+
+ - Handle requests from analysts and stakeholders, and turn the repetitive ones into something self-service
+
+
+
+What we're looking for:
+
+ - 2–4 years in data engineering, backend, or platform engineering
+
+ - Strong SQL and Python
+
+ - Experience writing and running pipelines with Airflow or something similar
+
+ - Familiarity with cloud services (AWS preferred)
+
+ - You understand the systems you've built — why they behave the way they do, what the trade-offs were, and what they cost to run
+
+ - You've owned something in production end to end — deployed it, looked after it, and fixed it when it broke
+
+ - You verify your own work before you call it done
+
+ - Comfortable in code you didn't write, on systems that are already live
+
+ - Comfortable writing backend code and deploying a service, not only running pipelines
+
+ - Clear communication, and the judgement to flag uncertainty early rather than late
+
+
+
+Nice to Have:
+
+ - Financial services, fintech or crypto, and handling sensitive transaction data
+
+ - Shipping and deploying internal tools or services — APIs, jobs, small apps
+
+ - Data-quality tooling — Great Expectations, Soda, dbt tests
+
+ - Experience with data you can't get back — streaming retention windows, APIs with no history, anything where missing the read means the observation never existed
+
+
+
+What Success Looks Like:
+
+ - The pipelines you look after run reliably — and when they don't, you know before anyone else does
+
+ - Data-quality problems get caught before they reach a report, a dashboard, or an AI system
+
+ - New sources go live cleanly, and the next one is easier because of how you did the last one
+
+ - Analysts ask fewer repeat questions, because the answer is documented or self-service
+
+ - When something breaks, you can explain what happened, what you changed, and why it won't happen the same way twice
+
+ - AI tooling is expected, and we provide it. We care that you can explain and defend what you shipped — not that you typed every line
+
+
+
+What’s in it for you:
+
+ - Friendly and fun start-up work culture
+
+ - Convenient work location located in the heart of CBD area
+
+ - Generous annual leaves on top of national holidays
+
+ - Medical coverage including GP, Specialist, TCM, and more
+
+ - Self-care benefits and exciting fitness workshops/webinars
+
+ - Vibrant office with a well-stocked pantry
+
+
+
+Find out more about Coinhako here https://www.coinhako.com/ and don't forget to visit our Careers Page https://www.coinhako.com/join-us
+
+
+
+By submitting your application to us, you consent to the collection, use, disclosure and processing of your personal data in accordance with our privacy policy, which is accessible at https://www.coinhako.com/legal/sg-1/privacy_policy.

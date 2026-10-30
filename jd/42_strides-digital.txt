@@ -1,0 +1,38 @@
+# Strides Digital | Data Analytics Engineer
+# https://www.mycareersfuture.gov.sg/job/engineering/data-analytics-engineer-strides-digital-91f7bbfffbb4853fea2ac936f9614b92
+
+Data Analytics Engineer
+Job Purpose 
+ The Data Analytics Engineer will be responsible for data pipelines integration, analyzing data, developing, and implementing machine learning and AI models to build data capabilities and solutions. He will perform data analysis, derive actionable insights, and support evidence-based decision making across the organization. 
+ Job Responsibilities 
+ Duties and responsibilities are as listed below. Note that the list is not comprehensive and related duties and responsibilities may be assigned from time to time.
+ Dissect huge volume of data, perform descriptive, diagnostic analysis, and provide consultative advice (predictive and prescriptive)
+ Apply the expertise of research to develop statistical models, machine learning models, conduct simulation studies for inventing and expanding Data Science capabilities throughout data monetization journey. 
+ Implement data pipelines, integrating diverse data sources, including structured and unstructured data to ensure seamless data flow and accessibility for analytical purposes.
+ Collaborate with data scientists and analysts to translate analytical requirements into scalable and efficient solutions leveraging on statistical and machine learning techniques, to uncover insights and pattern in the data.
+ Design and implement interactive dashboards and reports that effectively communicate analytical findings to stakeholders. Ensure visualizations areintuitive, user-friendly, and aligned with business needs.
+ Independently works with Institutional higher learning to conduct and publish researchtopics that has potential for future productization and commercialization.
+ Qualifications and Work Experience 
+ Bachelor’s degree or Postgraduate degree (preferred) in Statistics, Data Science, Mathematics or equivalent 
+ At least 2 years of data analytics/insights related professional experience or can convincingly demonstrate this level of skill.
+ Ability to analyze complex data sets, identify patterns, and draw meaningful insights aligned to business context and ability to apply architectural principles to business solutions.
+ Experienced to analyse and visualize huge volume of data into meaningful insights.
+ Experienced in independently developing machine learning and predictive model with end-to-end deployment.
+ Experienced in data management eco-system including concepts of data warehousing, data schemas & ETL.
+ Experienced in applying knowledge of applied statistical analysis, such as probability distributions, hypothesis testing,machine learning algorithms and predictive modeling techniques in industry use cases.
+ Skills and Competencies 
+ Technical skills include:
+ Good understanding and application experience by utilizing mathematics and statistics knowledge on the job.
+ Programming skills in languages such as Python(preferred), SQL or R for data analysis and data engineering tasks. 
+ Strong proficiency in data visualization tools such Tableau, PowerBI and Pythongraphing libraries (matplotlib, seaborn, plotly, etc) 
+ Proficiency with Python Machine learning framework (scikit-learn, pyCaret), and deep-learning framework (Tensorflow or Keras)
+ Familiarity with Linux operating system, with hands-on experience on using Docker for deployment of AI-based applications (Preferred)
+ Understanding front-end framework (Flutter, React etc.) and backend server frameworks (FastAPI, Django etc) (Optional)
+ Generic skills include:
+ Team player, ability to work collaboratively in a dynamic environment.
+ Critical thinker andproblem-solving skills
+ Passion in continuous learning, drive to learn new evolved technology and stay updated with industry trends
+ Good time-management and project management skills
+ Great interpersonal and communication skills
+
+MCF skills tags: Scalability, PHP, .NET, PostgreSQL, TypeScript, Software Engineering, MySQL, Agile, JavaScript, Python, Docker, API, Databases

@@ -1,0 +1,34 @@
+# Cascade Debt | Data Engineer, Asia (remote SG)
+# https://builtinsingapore.com/job/data-engineer-asia/10231615
+
+Data Engineer, Asia - Cascade Debt | Built In Singapore
+Do you want to work in a small team where you can make a real difference in a company? Would you embrace the challenge of building a high impact platform that is used globally? Then we want to speak with you!
+About Cascade:
+Cascade is a fintech startup backed by Canadian and US investors that empowers companies to grow by democratizing access to institutional debt. We are building tools that modernize how companies raise and manage debt, lowering the barriers to entry to the $7 trillion specialty finance and alternative credit market for companies around the world. Founded in 2022, we are gearing up for our next phase of technical development and are seeking a talented Data Engineer to lead the way.
+About the role:
+As a Data Engineer you’ll be an early member of a growing team building a pioneering platform in the debt infrastructure space. You will design, build, and launch efficient, scalable, and reliable data pipelines to move and transform data.
+What You’ll Do
+Building databases, data lakes and data ingestion pipelines to integrate customer databases and datasets to our systems
+Ingesting financial datasets from external customers, then updating and maintaining accurate and complete data mappings to ensure that our products are displaying high quality data
+Monitoring and alerting across our data pipelines in order to make sure that our data ingests are reliable and correct
+Translating business goals and stakeholder requirements into new data flows and deliver analytical insights ensuring that the data flows create real business value continuously
+Skills And Experience
+3+ years experience in a data engineering or data analyst role
+Experience with relational SQL and NoSQL databases, including PostgreSQL, MySQL, MariaDB, MongoDB, Bigtable, etc.
+Experience working with loan or credit data
+Experience working with ETL technologies, such as Databricks, Fivetran, or dbt
+Proficiency in writing SQL queries and knowledge of analytical data warehouses such as RedShift, BigQuery, and Snowflake
+Some experience with CI/CD automation such as GitHub Actions
+Developing APIs and integrating with 3rd party APIs
+Bonus: experience in fintech / SaaS / credit analysis
+People who thrive at Cascade are:
+Self-starters, who take the initiative to tackle challenges in a remote work environment
+Good communicators, who can operate without ego to discuss, learn, grow, and help others do the same
+Passionate about creating great digital experiences for users
+Problem solvers who are not satisfied with the status quo
+Benefits
+Remote: we are a remote-first company and are very flexible on hours as long as things get done
+Home-office: there’s a $1000 USD home office allowance to set yourself up
+Equity: we expect you to have an owner-mentality, and have the equity plan to match
+Perks: we offer free lunches weekly and off-site trips
+Job satisfaction: we offer autonomy, ample opportunities for mastery, and an opportunity to make a difference for companies around the world

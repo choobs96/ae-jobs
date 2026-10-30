@@ -1,0 +1,60 @@
+# Arukah Capital | Senior Data Platform Engineer
+# https://www.mycareersfuture.gov.sg/job/engineering/senior-data-platform-engineer-arukah-capital-c380d54a5ba59c6a122ce27096e59c8a
+
+Senior Data Platform Engineer
+Senior Data Platform Engineer
+ Platform, Data Engineering & Analytics
+ About Arukah
+ Arukah builds technology that connects biochar and biogas operations to measurable climate impact. Our systems bring together production records, sensors, laboratory results and supporting documents for digital measurement, reporting and verification (dMRV).
+ Our next challenge is to evolve the technology supporting a few plants into a platform for 10s of hundreds of plants, with an elite small engineering team. We need reusable systems, trustworthy data and thoughtful choices about what to build and what to obtain from managed services.
+ The opportunity
+ Own the data platform from source ingestion through operational analytics and registry reporting. You will assess the existing codebase, shape the architecture and deliver improvements incrementally while supporting current operations. The responsibilities include re-architecting where needed, not simply maintaining existing pipelines.
+ This role combines platform engineering, data engineering and analytics engineering. We are looking for strong platform judgment and hands-on Python and SQL skills, supported by solid analytical modeling. You should be comfortable choosing a managed capability, building a domain-specific component, or simplifying a workflow based on reliability, correctness, cost and the team's capacity to operate it.
+ You will use AI coding assistants as part of everyday engineering, with responsibility for the design, correctness and maintainability of everything delivered. You will also help operate AI-based document extraction and human review within the data workflow.
+ What you will own
+ Architecture for multiple plants. Design shared capabilities, facility configuration, access boundaries and data isolation. Establish a practical path from a few plants to many plants, using representative workloads and operational needs to guide decisions. Make each additional plant easier to onboard without creating separate code forks.
+ Managed-service and build-versus-buy decisions. Evaluate compute, storage, databases, orchestration, connectors, identity and monitoring. Consider engineering time, service limits, recurring cost, recovery, vendor dependencies and exit options. Prefer managed services when they meet requirements and reduce ongoing operational work.
+ Reliable ingestion and processing. Build reusable integrations for operational sheets, sensors, APIs, documents and laboratory results. Handle duplicates, late or missing data, schema changes, retries and historical reprocessing. Make source failures visible and recoverable.
+ Shared data models and analytics. Model plants, equipment, production batches, feedstock deliveries, samples and evidence with explicit grain, stable identifiers, units, time semantics and history. Create tested datasets and consistent metrics for plant operations, portfolio analysis and reporting.
+ Traceable calculations and evidence. Preserve source provenance, human corrections, calculation versions and approval states. Implement carbon and reporting rules with domain specialists, reconcile outputs and assess the effect of changes on historical results. Distinguish estimates, submitted evidence and accepted registry outcomes.
+ Improve identity, authorization, service permissions and secrets management across APIs, internal tools and automated workloads. Make sensitive data access and reviewer actions attributable to the right people and services.
+ Operate and improve our GCP and container infrastructure, including Cloud Run services, Dagster execution, PostgreSQL connectivity, storage and caching. Establish useful monitoring, alerts, recovery procedures and cost visibility.
+ Make development and releases repeatable through dependency management, automated tests, CI/CD, configuration management and infrastructure automation. Provide documented deployment and rollback paths.
+ Create operations and delivery that a small team can sustain. Establish automated checks, CI/CD, infrastructure configuration, useful monitoring, cost visibility and recovery procedures. Deliver migrations in bounded steps and document the system so another engineer can deploy, diagnose and recover it.
+ Effective AI-assisted engineering. Use coding assistants and agents for codebase exploration, implementation, refactoring, test development, documentation and debugging. Build repeatable ways to provide context, review changes and verify results while keeping ownership with the engineer.
+ What you bring
+ Experience owning production data systems through design, architectural change, migration and operation. You can explain the trade-offs and measurable outcomes of your decisions.
+ Strong Python and SQL, including maintainable interfaces, APIs, relational databases, warehouse transformations, numerical correctness and production debugging.
+ Strong data modeling: record grain, keys, temporal relationships, schema evolution, lineage, units and consistent metrics across heterogeneous sources.
+ Experience with orchestration, incremental processing, idempotency, backfills, reconciliation, monitoring and recovery. You understand how a successful pipeline can still produce incomplete or incorrect data.
+ Practical cloud engineering experience with managed compute, databases, object storage, event or queue services, identity and observability. GCP experience is valuable; comparable cloud experience is transferable.
+ Sound build-versus-buy judgment and experience making systems operable by a small team. You can justify both adopting a managed service and building a custom component.
+ Experience generalizing integrations or platform capabilities across multiple customers, sites, facilities or source systems, with configurable behavior and clear access boundaries.
+ The ability to prioritize, communicate architecture decisions clearly and work directly with plant operators, reviewers and domain specialists.
+ AI-assisted engineering requirements
+ We expect practical fluency with AI coding assistants and a disciplined approach to their limitations. You should be able to:
+ Turn an engineering task into a verifiable workflow. Supply relevant repository context, define constraints and acceptance criteria, break work into reviewable changes and use agents where they improve the outcome.
+ Evaluate generated code independently. Review architecture, dependencies, SQL, migrations and security implications. Test important behaviors and failure cases, inspect actual outputs and catch plausible but incorrect assumptions. Do not treat generated tests or an assistant's completion statement as proof of correctness.
+ Debug beyond the assistant's suggestions. Trace a problem through logs, data and source code; reproduce it; and explain the root cause. Maintain the Python, SQL and systems skills needed to resolve failures when AI assistance is ineffective.
+ Use tools with appropriate access. Protect credentials and sensitive operational data, follow approved tool and data-handling policies, and apply deliberate review to production changes, database writes and external submissions.
+ Make AI-assisted work maintainable. Produce focused diffs, meaningful tests, clear documentation and understandable code. Share reusable workflows with the team and assess their value through delivery time, defects, rework and maintenance effort.
+ We welcome experience with different coding assistants and agent tools; expertise in one vendor is not a prerequisite. This role does not require training foundation models. It does require the judgment to use AI effectively and remain accountable for the resulting system.
+ Useful additional experience
+ BigQuery or a comparable cloud warehouse; PostgreSQL, object storage, Pub/Sub or similar messaging, and managed application hosting.
+ Dagster, Airflow, Prefect or managed orchestration; dbt, Dataform or comparable transformation practices; Docker and infrastructure-as-code tools.
+ Industrial sensor data, intermittent connectivity, laboratory records, carbon accounting, lifecycle assessment or registry integrations.
+ OCR and LLM extraction pipelines, representative evaluation datasets, field-level accuracy measurement, model/prompt versioning and human review workflows.
+ Building practical analytical interfaces and operational dashboards, and helping nontechnical users interpret data-quality exceptions.
+ Our current stack is a starting point for informed decisions. You will help determine which components to retain, replace or obtain as managed services. Carbon-domain expertise is welcome and can be developed with our specialists.
+ How we will work together
+ You own the engineering implementation and technical reliability of the platform. Plant operations and reviewers own source-data verification; MRV specialists interpret and approve carbon methodology, eligibility rules and reporting decisions. You will make those responsibilities explicit in the system and work with their owners to resolve exceptions.
+ We will prioritize a bounded set of outcomes rather than expect every integration, dashboard and platform improvement at once. We will review engineering capacity as plant onboarding, support and reporting demand grows. Shared documentation, deployment practices and recovery exercises will help avoid dependence on one person.
+ Your first 90 days
+ We will agree scope and baseline measures together. Initial outcomes should include:
+ An architecture and migration plan: assess the existing platform, identify the highest-impact correctness and operational risks, and propose a staged path toward 10s of plants with assumptions to revisit before 100s. Include managed-service decisions and indicative costs.
+ One reusable source-to-reporting workflow: demonstrate it with representative data from more than one plant configuration, including data contracts, reconciliation, provenance, human review where needed and a safe historical reprocessing exercise.
+ A repeatable onboarding and operating path: document configuration, access, monitoring and recovery; measure manual engineering effort and demonstrate that another team member can follow the process.
+ A verified AI-assisted development workflow: show how repository context, implementation, review and meaningful checks fit together, with examples of catching and correcting assistant errors.
+ Success will be measured through data correctness, reporting traceability, reduced onboarding and operational effort, reliable recovery and sustainable cost. The first 90 days are a foundation for scaling, not a commitment to make the platform scale to 100s plants within that period.
+
+MCF skills tags: Airflow, Google Cloud Platform, Platform Management, Data Engineering, Python, Data Architecture, Docker, Data Science, Dagster, BigQuery

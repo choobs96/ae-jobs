@@ -1,0 +1,28 @@
+# Vinova | Data Engineer (MOE)
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-vinova-701419d1f08f867a01a6956c3973a16f
+
+Data Engineer (MOE)
+Company Overview 
+ Established in 2010, Vinova is an award-winning development company specializing in mobile, web, and enterprise applications. We serve global clients across IoT, blockchain, fintech, banking, networking, and ecommerce, delivering quality products through passionate, collaborative teams.
+ Job Summary 
+ Design, build, and operate scalable data architectures and pipelines to support diverse data use cases. Collaborate cross-functionally to develop robust data models and apply modern engineering practices that enhance data system reliability, security, and performance.
+ Responsibilities 
+ Design, build, and operate scalable data architectures and pipelines for ingesting, transforming, and serving data across diverse source systems and use cases
+ Develop robust data models and reusable data capabilities for applications, analysts, data scientists, and other data consumers
+ Apply proven architectural and engineering practices to improve the reliability, security, observability, performance, and maintainability of data systems
+ Evaluate technologies and architectural approaches, make sound technical trade-offs, and contribute to evolving the Data Programme's architecture and engineering standards
+ Champion modern software engineering practices including automated testing, code review, CI/CD, and infrastructure-as-code, and help the team meet these standards through review and coaching
+ Collaborate cross-functionally with engineers, Product Managers, Data Scientists, analysts, and users, providing technical leadership through design reviews, mentoring, and knowledge sharing
+ Demonstrate strong software engineering fundamentals by developing and maintaining high-quality codebases
+ Utilize proficiency in Python and SQL to implement data solutions and perform data manipulation tasks
+ Apply strong experience in enterprise data architecture and engineering to design scalable and efficient data systems
+ Design data pipelines and data models that meet business and technical requirements
+ Use cloud platforms, preferably AWS, to deploy and manage data infrastructure
+ Work with modern data warehouse or data platforms such as Redshift, Snowflake, Databricks, BigQuery, or equivalents
+ Implement data orchestration, transformation, and modeling using modern engineering tools and approaches
+ Employ production engineering practices including testing, CI/CD, monitoring, troubleshooting, and ensuring data quality
+ Preferred competencies and qualifications 
+ Hands-on experience with workflow orchestration tools such as Apache Airflow or equivalent
+ Experience with transformation and analytics engineering frameworks such as dbt or equivalent
+
+MCF skills tags: Mentoring, Code Review, Collaborate With Engineers, Design, Data Modelling, Security, Automated Software Testing, Reliability Engineering Management, Software Engineering, Software Quality Engineering, Transformation, Technology Evaluation, CI/CD, Data Infrastructure, Technical Leadership, SQL Development

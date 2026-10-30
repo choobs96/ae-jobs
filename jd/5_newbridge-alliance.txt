@@ -1,0 +1,18 @@
+# Newbridge Alliance | Senior / Lead Data Engineer
+# https://www.mycareersfuture.gov.sg/job/information-technology/senior-lead-data-engineer-newbridge-alliance-e3dbabdb1421d6bc79ce947aa7c129fb
+
+Senior /Lead Data Engineer
+You will build governed, audit-ready pipelines that turn fragmented client data into trusted, AI-ready assets. This is a central, load-bearing role working alongside AI Engineers and Data Scientists.
+ Key Responsibilities: 
+ Build and operate end-to-end ingestion pipelines from ERP, clinical, customer and operational systems (batch + streaming) into a governed lakehouse.
+ Own transformation, modelling, and semantic layer to ensure consistent business logic across BI and AI.
+ Prepare and serve AI-ready data - curated datasets, embeddings, and RAG corpora.
+ Own data quality, master data / entity resolution, and end-to-end lineage for audit readiness.
+ Embed governance, privacy & security by design (PDPA and APAC data residency / cross-border rules).
+ Build reusable accelerators and set engineering standards for the practice.
+ Must Have: 
+5-10 years of hands-on production data engineering, end-to-end delivery experience, and client-facing stakeholder management.
+ Tech Stack: 
+Expert Python & SQL, dbt, Snowflake / Databricks, Airflow / Dagster, Iceberg / Delta Lake, plus strong understanding of data governance, vector stores, and cloud ( Azure / AWS / GCP).
+
+MCF skills tags: Master Data, Clinical, large datasets, Stream Processing, Customer Operations, Pipeline Management, Audit Frameworks, Governance, Transformation, Solution Accelerators, Data Quality Assurance, Embedding, Business Logic, Cross-border Transactions, Modelling, Security Design

@@ -1,0 +1,48 @@
+# Altimate AI | Solution Architect
+# https://builtinsingapore.com/job/solution-architect/11693986
+
+Solution Architect - Altimate AI | Built In Singapore
+Why Join Us
+Altimate AI is at the forefront of the AI-driven data revolution, tackling one of the biggest pain points in modern enterprise analytics—an overwhelming volume of data and a shortage of skilled data professionals to manage it. Our mission: Automate and accelerate data operations so data teams can work smarter, not harder.
+With our flagship product, DataPilot, and our pioneering DataMates technology, we’re leading the charge in “agentic AI.” Think of this as virtual teammates embedded inside popular workflows—like the VSCode extension loved by thousands across 50+ countries—taking care of everything from data documentation to performance optimization. Users rave about how it’s “an essential tool” and “game-changing for their data workflows.” This extension is just the tip of the iceberg, a tangible example of how we integrate seamlessly into tools teams already use. Our broader suite of solutions covers a range of enterprise data needs, creating an ecosystem of continuous monitoring, optimization, and streamlined data operations.
+Backed by top-tier investors and guided by Silicon Valley veterans who’ve scaled companies from startup to IPO, we have the vision, resources, and momentum to reshape how data teams operate.
+Your Impact
+As a Solution Architect, you'll serve as the critical link between our customers and engineering team, partnering with technical stakeholders, product teams, and a global user community to deeply understand their data challenges and translate them into scalable, high-impact solutions - playing a pivotal role in shaping our product direction and ensuring lasting customer success.
+What Makes This Opportunity Special
+Work at the Frontier of AI + Lakehouse
+Partner with customers using Databricks to build intelligent data platforms powered by AI agents, contextual knowledge graphs, and modern data pipelines.
+Shape the Future of Enterprise Data
+Help define how GenAI integrates with Databricks, lakehouse architecture, and enterprise data workflows—not just implementing solutions, but shaping the category.
+Accelerated Career Growth
+Join as an early member of the GTM team with the opportunity to influence architecture standards, customer strategy, and grow into leadership roles as we scale.
+Deep Ownership and Impact
+Your work will directly influence product capabilities, customer success, GTM strategy, and long-term technical direction.
+What You’ll Do
+Lead Technical Engagements
+Deliver compelling technical demos and architecture discussions showcasing the value of Databricks-based solutions.
+Drive Proof-of-Concepts to Success
+Design and execute POCs on Databricks, demonstrating clear technical and business value.
+Architect Modern Data Solutions
+Guide customers in building scalable pipelines using Databricks, Spark, Delta Lake, and lakehouse best practices.
+Own Customer Onboarding and Adoption
+Partner closely with customers to ensure smooth implementation, strong adoption, and fast time-to-value.
+Act as a Trusted Technical Advisor
+Support customers in optimizing their data platform, identifying expansion opportunities, and driving deeper usage.
+Influence Product and Strategy
+Translate customer feedback and ecosystem trends into product improvements and technical direction.
+Who You Are
+Databricks and Data Platform Expert
+6+ years in a customer-facing technical role such as Solution Architect, Data Engineer, Consultant, or Professional Services Engineer within the data ecosystem.
+Strong Databricks Expertise
+Hands-on experience with Databricks, Apache Spark, Delta Lake, and modern lakehouse architecture.
+Modern Data Stack Experience
+Strong working knowledge of SQL, data modeling, ETL/ELT pipelines, and cloud data platforms.
+Experience with dbt is a strong plus.
+Customer-First Communicator
+Able to translate complex architectures into clear, impactful narratives for technical and business audiences.
+Builder Mindset
+Proactive, ownership-driven, and comfortable working in fast-moving startup environments.
+Bonus: Startup or High-Growth Experience
+Experience working in early-stage or high-growth companies is highly valued.
+Ready to Join Us?
+If you're passionate about Databricks, modern data platforms, and helping customers unlock real value from their data, we’d love to talk. Join Altimate AI and help shape the future of AI-powered data operations.

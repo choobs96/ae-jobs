@@ -1,0 +1,41 @@
+# Millipede | Data Generalist
+# https://www.linkedin.com/jobs/view/4478376420
+
+Data Generalist
+About the Company 
+ Millipede Pte Ltd is a Singapore-based technology company specialising in Integrated Digital Delivery (IDD) solutions for the construction and real estate development sectors. Established in 2022, Millipede aims to enhance efficiency, safety, and quality across construction projects by providing a connected platform that facilitates real-time data collection and stakeholder collaboration.
+ 🏗️ What Millipede Offers 
+ Millipede’s platform is designed to integrate seamlessly into existing workflows, offering tools that cater to various stakeholders in the built environment:
+ Mobile App : Allows on-site workers & supervisors to report progress, complete checklists in real-time and manage approvals, ensuring accurate and timely data collection.
+ Web Portal : Provides project managers and administrators with a centralised dashboard to monitor activities, manage stakeholders, and track project timelines across multiple sites.
+ Milli-Tools™ : A suite of customisable tools that aid in accurate progress tracking, safety compliance and quality assurance.
+ By leveraging these tools, Millipede enables firms to optimise processes, reduce turnaround times, and improve overall project outcomes.
+ About the role 
+ This is a full-time on-site Data Generalist role located in Singapore.
+ We are seeking a versatile and proactive Data Generalist to own the end-to-end data lifecycle at Millipede. You will be the bridge between raw data and actionable insights, responsible for everything from building data pipelines and ensuring data integrity to conducting deep-dive analyses, developing predictive models, and creating compelling visualisations.
+ Key Responsibilities 
+ Data Engineering: Design, build, and maintain scalable and reliable data pipelines (ETL/ELT) to gather large datasets from various sources, including our mobile app and web portal.
+ Data Integrity: Develop processes for data preprocessing, cleansing, and validation to ensure the highest levels of data quality and integrity.
+ Analysis & Insights: Conduct deep-dive exploratory data analysis (EDA) to understand user behaviour, project metrics, and operational efficiency, identifying key trends and patterns.
+ Predictive Modeling: Build, test, and validate practical machine learning models to forecast project timelines, identify potential safety risks, or optimise resource allocation.
+ Visualisation & Reporting: Create and maintain insightful dashboards and visualisations (e.g., in Looker, PowerBI) to empower stakeholders with self-service analytics and effectively communicate findings.
+ Cross-Functional Collaboration: Work closely with engineering, product, and business teams to understand their data needs, implement data-driven solutions, and drive strategic decisions.
+ Data Evangelism: Translate complex data concepts and findings into clear, actionable recommendations for both technical and non-technical audiences through reports and presentations.
+ Innovation: Stay updated with the latest advancements in data engineering, analytics, and machine learning, and champion new methodologies to continuously improve our data capabilities.
+ Required Skills 
+ Experience: 3+ years of relevant work experience in a data-centric role (e.g., Data Analyst, Data Engineer, Analytics Engineer) within the SaaS space.
+ Mindset: Highly detail-oriented, organised, and meticulous. You possess a strong problem-solving mindset with the ability to tackle open-ended challenges and a self-starter attitude suited for a dynamic startup environment.
+ Communication: Excellent communication skills with a proven ability to explain complex data concepts to a diverse range of audiences and collaborate effectively as a team player.
+ Technical Proficiencies 
+ Data Management & Engineering:
+ Strong proficiency in query languages, especially SQL (experience with BigQuery is a major plus).
+ Experience with both Relational Databases and NoSQL databases (e.g., Google Firestore).
+ Hands-on experience with modern ETL/ELT tools (e.g., dbt, Databricks).
+ Analysis & Modeling:
+ Proficiency with common data science toolkits in Python (e.g., Pandas, NumPy, Scikit-learn) or R.
+ Practical understanding of machine learning techniques and algorithms (e.g., k-NN, Naive Bayes, SVM, Decision Forests) is a strong plus.
+ Data Visualization:
+ Experience creating dashboards and reports with a range of data visualisation tools (e.g., Looker, PowerBI, D3.js).
+ Benefits 
+ Milli-Nest one-time benefit to spruce up your workstation
+ Milli-Cares annual benefit for health and wellness related expenses (e.g Health insurance, health screenings, gym membership, dental and prescription glasses)

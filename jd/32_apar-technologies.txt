@@ -1,0 +1,46 @@
+# APAR Technologies | Data Engineer (public sector)
+# https://www.mycareersfuture.gov.sg/job/public/data-engineer-apar-technologies-286b31d1122b15797e4336a9ff4ee86e
+
+Data Engineer
+RoleOverview 
+ Weare looking for a hands-on Data Engineer to design, build, and optimizescalable data pipelines on the Databricks Lakehouse platform. The role involvescollaborating with analysts, data scientists, and business teams to deliverreliable, analytics-ready data assets.
+ KeyResponsibilities 
+ Build and maintain batch and streaming data pipelines using PySpark and Databricks .
+ Implement medallion architecture (Bronze, Silver, and Gold layers).
+ Optimize Spark jobs for performance and cost efficiency.
+ Ensure data quality, lineage, and governance using Unity Catalog and automated validation.
+ Integrate data from APIs, databases, files, and event streams.
+ Implement CI/CD, version control, and workflow orchestration.
+ Monitor, troubleshoot, and document data pipelines and data models.
+ Collaborate with stakeholders to translate business requirements into technical solutions.
+ RequiredQualifications 
+ 3–5 years of hands-on data engineering experience. 
+ Strong PySpark skills, including DataFrames, Spark SQL, UDFs, and performance tuning .
+ Proven experience building production pipelines on Databricks.
+ Working knowledge of Delta Lake, including ACID transactions, time travel, merge/upsert, and schema evolution .
+ Advanced SQL and strong Python programming skills .
+ Experience with Azure, AWS, or GCP cloud platforms .
+ Understanding of data modelling, Lakehouse architecture, and ETL/ELT patterns. 
+ Familiarity with Git and CI/CD practices. 
+ PreferredQualifications 
+ Databricks Data Engineer Associate or Professional certification.
+ Experience with Unity Catalog, Auto Loader, and Structured Streaming.
+ Familiarity with Airflow, Azure Data Factory, or Databricks Workflows.
+ Knowledge of Terraform and testing frameworks such as pytest.
+ Exposure to Kafka, Event Hubs, dbt, or MLOps workflows.
+ Experience working in regulated or enterprise environments.
+ KeySkills 
+ PySpark and Python
+ Databricks and Delta Lake
+ Advanced SQL
+ Data Pipeline Development
+ Medallion Architecture
+ Cloud Data Engineering
+ Data Quality and Governance
+ CI/CD and Git
+ Spark Performance Tuning
+ DesiredAttributes 
+ Strong problem-solving and debugging skills.
+EA Number: 11C4879
+
+MCF skills tags: PySpark, Troubleshooting, Apache Spark, Architecture, Data Pipeline, governance requirements, File Documents, Data Governance, requirements from stakeholders, Data Quality Assurance, SQL, Data Lake, Version Control Systems, Workflow Orchestration, CI/CD, Silver

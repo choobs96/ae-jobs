@@ -1,0 +1,66 @@
+# Dyson | Data Analytics & Insights Engineer (JR37872)
+# https://careers.dyson.com/en-gb/job-description/data-analytics-insights-engineer/JR37872/
+
+# Dyson — Data Analytics & Insights Engineer (JR37872)
+
+- **URL:** https://careers.dyson.com/en-gb/job-description/data-analytics-insights-engineer/JR37872/ (seen via LinkedIn)
+- **Captured:** 2026-10-19 with curl and a browser user agent (WebFetch gets 403)
+- **Location:** Singapore, St James Power Station HQ · **Salary:** "Competitive" (no band) · **Posted:** 16 Sep 2026
+- **Form questions:** unknown until the apply flow is opened (Dyson uses its own ATS); capture them before submitting
+
+## Posting (verbatim)
+
+Data Analytics & Insights Engineer
+Summary
+Salary
+:
+Competitive
+Job Family
+:
+Data Analytics
+Location
+:
+Singapore - St James Power Station Headquarters
+About Us 
+Dyson is a global technology company with a simple mission: solve problems others ignore. We pioneer radically better technologies across categories — from intelligent vacuums and haircare to connected purifiers and emerging product innovations. As Dyson products become increasingly intelligent, connected and insight driven, our digital and data capabilities enable us to deliver exceptional owner experiences, discover critical enterprise insights, and unlock new opportunities throughout the product lifecycle. 
+Role Summary
+We are seeking a Data Analytics & Insights Engineer to drive data preparation, analysis, pipeline management, and dashboard development, transforming complex data into actionable insights for engineering and product teams. Positioned at the intersection of data engineering and analytics, this role will enable informed decision-making through reliable data products, scalable data solutions, and impactful visualizations.
+Key Responsibilities
+1. Data Analysis & Insights
+Analyze product, engineering, and machine data to generate actionable insights for Engineering and other teams within Dyson.
+Translate stakeholder requirements into analytical frameworks, KPIs, metrics, and business-ready outputs.
+Develop Python and SQL-based analyses to support business and engineering decision-making.
+Identify trends, anomalies, opportunities, and performance drivers through exploratory and structured data analysis.
+Present findings and recommendations in a clear and meaningful manner to stakeholders.
+2. Data Pipeline & ETL Management
+Support the setup, validation, and maintenance of end-to-end data pipelines spanning: Amazon S3 → Google Cloud Storage (GCS) → BigQuery
+Build and maintain ETL workflows to create clean, reliable, and business-ready datasets.
+Automate pipeline processes and implement monitoring to ensure data quality, reliability, and availability.
+Troubleshoot data issues and collaborate with technical teams to improve data integrity and scalability.
+3. Visualization & Reporting
+Design, develop, and maintain dashboards using Tableau and/or Streamlit.
+Create visualizations that effectively communicate product performance, usage trends, validation outcomes, and other operational metrics.
+Enable self-service analytics capabilities for stakeholders through intuitive reporting solutions.
+Ensure dashboards remain accurate, performant, and aligned with evolving business needs.
+Required Skills & Experience
+Strong proficiency in Python and SQL for data analysis and data manipulation.
+Experience working with cloud-based data platforms, preferably BigQuery, GCP, and AWS S3.
+Hands-on experience building and maintaining ETL/data pipelines.
+Experience with data visualization and dashboarding tools such as Tableau and/or Streamlit.
+Strong analytical and problem-solving capabilities.
+Ability to translate business requirements into analytical solutions and actionable insights.
+Excellent stakeholder management and communication skills.
+Preferred Qualifications
+Experience working with product analytics, engineering telemetry, or user/machine data.
+Exposure to data warehousing and modern analytics architectures.
+Familiarity with data quality monitoring and automation practices.
+Experience supporting engineering, product, or R&D organizations.
+Expected Outcomes
+The successful candidate will:
+Deliver meaningful insights from product and engineering datasets.
+Improve accessibility and visibility of key metrics through dashboards and reports.
+Ensure reliable, scalable, and high-quality data pipelines.
+Enable data-driven decision-making across engineering and other initiatives.
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+Posted: 16 September 2026
+

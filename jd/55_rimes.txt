@@ -1,0 +1,48 @@
+# Rimes | Data Engineer
+# https://www.linkedin.com/jobs/view/4438650463
+
+Data Engineer
+About Rimes
+ Rimes provides the Intelligence Fabric for Capital Markets, a trusted data network and intelligence architecture that transforms fragmented data, operations and workflows into decision-grade intelligence. The world's leading institutional investors, asset managers, and service providers rely on Rimes to help them make better investment decisions that power more than US$ 75 trillion in AUM annually.
+ The Opportunity:
+ Rimes is looking for a Data Engineer to actively participate in building and modernising the data platform that underpins our entire data ecosystem. You will work alongside the Data Engineering Team Lead, who sets overall direction and owns the platform roadmap, contributing hands-on engineering across platform development, tooling, data modelling, and operational improvement.
+The core of this role is building reusable, scalable capabilities that allow the team to craft high-quality financial data pipelines efficiently, rather than building pipelines one by one. We are also looking for engineers curious about agentic AI workflows and how they can automate and enhance the way data platforms operate.
+ Core Responsibilities:
+ Platform Development and Modernisation: Actively participate in the transformation of our existing data platform and pipelines, leveraging modern technologies such as Snowflake and Databricks to improve scalability, performance, and efficiency. 
+ Tooling and Automation: Build and extend tooling to support the seamless ingestion and quality assurance of financial data. Automate repetitive or error-prone processes to reduce manual intervention and improve operational efficiency across the data engineering workflow. 
+ Data Model Design: Contribute to the design and implementation of scalable, reusable data models for financial data, ensuring the data architecture supports a wide range of business use cases. Work within the standards and patterns set by the team to maximise consistency and the long-term value of the company's data products. 
+ Hands-On Engineering: Play an active role in day-to-day engineering tasks, coding, reviewing, and designing complex data solutions. Share knowledge and best practices with peers through code review and technical discussion, contributing to a culture of engineering excellence without a formal management remit. 
+ Operational Efficiency: Take part in efforts to minimise the operational costs of data ingestion and pipeline support. Identify and implement optimisations in both technical workflows and the processes used by support personnel, reducing toil and improving reliability. 
+ Collaboration: Work closely with cross-functional teams including Product, Data Onboarding, Data Quality, and Operations to ensure data engineering solutions meet both technical and business needs. Communicate clearly about trade-offs, timelines, and dependencies. 
+ Financial Data: Apply an understanding of financial data pricing, benchmarks, reference data, corporate actions, to ensure that data models, pipelines, and tooling are optimised for the characteristics and compliance requirements of this domain. 
+ Agentic Workflows: Explore and prototype agentic workflow patterns where autonomous agents can trigger, monitor, or adapt data pipelines based on data signals or events. Stay current with emerging LLM-based tooling and bring relevant ideas to the team, integrating them where they add measurable value to platform automation. 
+ Requirements: 
+ Core Experience
+ 3–5 years of hands-on experience in data engineering or a closely related discipline. 
+ Demonstrated experience building shared tooling, frameworks, or reusable components, not only end-to-end pipelines. 
+ Experience working with financial or enterprise data environments is a plus. 
+ Technical Skills
+ Python: Strong proficiency; comfortable writing production-quality, well-tested code. 
+ SQL: Advanced SQL for data modelling, query optimisation, and analytical work. 
+ Databricks & Apache Spark: Hands-on, mandatory experience with Databricks and Spark for large-scale distributed data processing, including Delta Lake, Spark SQL, and cluster optimisation. 
+ Cloud Data Platforms: Experience with Snowflake or equivalent cloud warehouses (BigQuery, Redshift, Synapse) alongside Databricks. 
+ Orchestration: Working knowledge of at least one workflow orchestrator Airflow, Prefect, or Dagster. 
+ Cloud Infrastructure: Practical experience on AWS, Azure, or GCP object storage, compute, serverless, IAM. 
+ DevOps & CI/CD: Comfortable with Git, Docker, and CI/CD pipelines for data platform deployments. 
+ Data Quality: Experience implementing data quality checks, schema validation, or contract testing. 
+ AI-Assisted Development: Proficient in using AI coding tools such as GitHub Copilot and Claude to accelerate development, generate boilerplate, review code, and navigate complex codebases. Comfortable integrating these tools into a daily engineering workflow. 
+ Nice to Have:
+ Hands-on experience with agentic AI frameworks (LangChain, LlamaIndex, AutoGen, CrewAI, or the Anthropic Agent SDK). 
+ Knowledge of streaming data processing (Kafka, Kinesis, or Flink). 
+ Exposure to financial data types pricing, reference data, benchmarks, indices, or corporate actions. 
+ Experience with metadata catalogues (Unity Catalog, DataHub, OpenMetadata, Alation, or similar). 
+ Familiarity with data contract patterns. 
+ What We Offer: 
+ Private Health Insurance (plus eligible dependents)
+ 23 days of annual leave
+ Employee Assistance Programme
+ Compensation: Competitive pay and bonus eligibility
+Work Life Balance: Flexible hybrid work environment
+ Only selected candidates will be contacted for interviews. We appreciate your understanding. Thank you for considering a career with us.
+ Rimes is committed to promote the values of diversity and inclusion throughout the business. Whether it's through recruitment, retention, career progression or training and development, we are committed to improving opportunities for people regardless of their background or circumstances.
+Visit our Careers page to see our complete listings.

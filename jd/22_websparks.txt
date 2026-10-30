@@ -1,0 +1,33 @@
+# Websparks | Senior Data Engineer - Enterprise Data Architecture (Public Sector)
+# https://www.mycareersfuture.gov.sg/job/information-technology/senior-data-engineer-enterprise-data-architecture-websparks-eba71693cb2d7d3bb4503b31431a82fd
+
+Senior Data Engineer - Enterprise Data Architecture (Public Sector)
+1-year contract, renewable
+ Hybrid work arrangement
+ Government project
+ As a Senior Data Engineer on DXD's Data Programme, you will design, build and operate enterprise-grade data systems and platforms supporting analytics, data science and digital products across MOE. You will bring experience from complex data environments to help shape architecture, establish robust engineering practices and accelerate technical decision-making.
+You will be expected to:
+ Design, build and operate scalable data architectures and pipelines for ingesting, transforming and serving data across diverse source systems and use cases.
+ Develop robust data models and reusable data capabilities for applications, analysts, data scientists and other data consumers.
+ Apply proven architectural and engineering practices to improve the reliability, security, observability, performance and maintainability of data systems.
+ Evaluate technologies and architectural approaches, make sound technical trade-offs, and contribute to the evolution of the Data Programme's architecture and engineering standards.
+ Champion modern software engineering practices (automated testing, code review, CI/CD, infrastructure-as-code), and help the team consistently meet these standards through review and coaching.
+ Work cross-functionally with engineers, Product Managers, Data Scientists, analysts and users, while providing technical leadership through design reviews, mentoring and knowledge sharing.
+ What we are looking for: 
+ Strong software engineering fundamentals and proficiency in Python and SQL , with hands-on experience building and operating complex production data systems.
+ Strong experience in enterprise data architecture and engineering , with the ability to apply established patterns and practices to new technical problems.
+ Experience designing data pipelines and data models, with a strong understanding of data warehouses, data lakes and lakehouse architectures.
+ Experience with cloud platforms, preferably AWS , and modern data warehouse or data platforms such as Redshift, Snowflake, Databricks, BigQuery or equivalent .
+ Experience with data orchestration, transformation and modelling using modern engineering approaches and tools.
+ Strong understanding of production engineering practices including testing, CI/CD, monitoring, troubleshooting and data quality.
+ Good to have: 
+ Hands-on experience with workflow orchestration tools such as Apache Airflow or equivalent.
+ Experience with transformation and analytics engineering frameworks such as dbt or equivalent.
+ Experience with distributed data processing technologies such as Apache Spark .
+ Deep experience with AWS data services and cloud infrastructure .
+ Familiarity with BI and analytics tools such as Tableau, Power BI or equivalent .
+ Experience with infrastructure-as-code, data observability, metadata, catalogue or lineage capabilities.
+ Experience working with sensitive or regulated data, and an interest in using technology and data for public good.
+ /Ref: T24-248
+
+MCF skills tags: Distributed Platforms, Engineering Modeling, Data Orchestration, Data Pipeline, Data Warehouse Architectures, Data Warehouse Systems, Data Quality Assurance, Monitoring, Data Lake, Enterprise Architecture, CI/CD, Data Architecture, Production Engineering, Testing, Production Databases

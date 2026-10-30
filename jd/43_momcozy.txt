@@ -1,0 +1,40 @@
+# Momcozy | Senior Data Engineer
+# https://www.linkedin.com/jobs/view/4478406124
+
+Senior Data Engineer
+Role Overview
+ We are looking for a Senior Data Engineer to turn data from multiple regions and business systems into trusted, reusable data products. This role exists to independently own critical data domains, establish durable standards for modeling, quality, metrics, and serving, and work with distributed teams to support analytics and data-powered applications. You will be the go-to owner for key data domains that serve the global business.
+ Who You'll Work With
+ • Reports to: Regional Tech Lead or Head of Big Data & Algorithm (China HQ)
+ • Collaborates with: Business stakeholders, analytics teams, product managers, engineering teams, and data platform team
+ • Team context: Owns critical data domains; mentors junior data engineers; cross-time-zone collaboration
+ Responsibilities
+ • Design, build, and maintain batch and streaming data pipelines and models for analytics and applications
+ • Develop standardized detail layers, shared dimensions, domain models, aggregates, and reusable data products
+ • Partner with business, analytics, product, and engineering teams to clarify requirements and define data contracts, business logic, and service levels
+ • Build automated tests, data quality rules, monitoring, and source reconciliation
+ • Improve pipeline performance, reliability, and cost efficiency, and participate in production support
+ • Guide other data engineers and raise standards for modeling, code quality, and operational practices
+ • Support controlled data publishing across regions and troubleshoot downstream data issues
+ Requirements
+ Must-Have
+ • Bachelor's degree or above in Computer Science, Data Science, or a related field, or equivalent industry experience
+ • 5+ years of experience in data engineering, analytics engineering, or data warehousing, or equivalent practical expertise
+ • Strong proficiency in SQL, Python, and data modeling, with production experience using Spark or comparable technologies
+ • Good understanding of dimensional modeling, incremental processing, data quality, orchestration, and data contracts
+ • Ability to own the full lifecycle from source data to a reliable data product
+ • Legally authorized to work in Singapore; this role does not provide visa sponsorship
+ Nice-to-Have
+ • Experience with Databricks, dbt, MetricFlow, or another semantic-layer technology
+ • Experience with commerce, advertising, order, user, or consumer data
+ • Experience with cross-region data publishing, de-identified data, or controlled datasets
+ • Mandarin communication skills
+ Language
+ • Professional working proficiency in English (CEFR B2 or above)
+ • Mandarin Chinese is highly advantageous for collaboration with China HQ, but not required
+ What We Offer
+ • Opportunity to own and shape critical data domains for a global business
+ • Mentorship scope and technical leadership within the data team
+ • Exposure to cross-region data engineering and compliance challenges
+ • Competitive compensation and benefits package
+ • Flexible working policy

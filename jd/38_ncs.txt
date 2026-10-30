@@ -1,0 +1,80 @@
+# NCS | Senior AI Data Engineer
+# https://www.mycareersfuture.gov.sg/job/consulting/senior-ai-data-engineer-ncs-f675ad5454b382b16d007b8eecfe073d
+
+Senior AI Data Engineer
+NCS is a leading AI Tech Services company. With a 15,000-strong team across the Asia Pacific, NCS scales its platforms and capabilities to provide clients with greater agility and AI expertise across a range of Industries. Embracing a strong ecosystem of global partners, NCS transforms technology services delivery combining AI with digital resilience to drive real business impact. NCS is a subsidiary of the Singtel Group.
+ Job Description 
+ Role Summary 
+ You are an autonomous AI Engineer, responsible for creating the harness for designing and building the AI harness, agent framework, and reusable engineering components required to operate a modern data platform based on Apache Iceberg , Trino , and Parquet .
+ Your primary responsibility is not only to build data pipelines, but also to establish the agentic execution framework (AI Harness) that enables multiple specialized agents to collaborate, execute tasks, maintain state, orchestrate workflows, and deliver end-to-end data engineering capabilities.
+ Depending on your level of experience, your focus in the team will be on either task execution, independent delivery, or technical leadership.
+ Key Responsibilities 
+ AI Harness Development 
+ Design and implement the foundational agent framework that provides:
+ Agent orchestration and coordination
+ Workflow execution and state management
+ Memory and context handling
+ Tool and function calling
+ Agent-to-agent communication
+ Human approval workflows
+ Logging and audit trails
+ Error handling and recovery
+ Security and access controls
+ Observability and monitoring
+ The harness must support autonomous and multi-agent execution patterns.
+ Specialized Agents Creation 
+ The agents will need to perform the following:
+ Discover Iceberg catalogs and schemas
+ Profile datasets
+ Generate metadata and lineage
+ Ingest data from databases, APIs, files, and streams
+ Create Parquet datasets
+ Register and maintain Iceberg tables
+ Generate Trino SQL
+ Build transformation workflows
+ Create curated and business-ready datasets
+ Validate schemas and data integrity
+ Detect anomalies
+ Generate reconciliation reports
+ Analyze Trino workloads
+ Recommend partitioning strategies
+ Optimize Iceberg tables and Parquet files
+ Classify sensitive information
+ Manage metadata and lineage
+ Apply retention and compliance policies
+ Monitor pipelines and agent activities
+ Detect failures and bottlenecks
+ Generate alerts and operational insights
+ Expected Deliverables 
+ Iceberg table definitions and schemas
+ Trino SQL scripts and views
+ Python data pipeline code
+ Data quality validation suites
+ Metadata and lineage documentation
+ CI/CD deployment artifacts
+ Monitoring and observability configurations
+ Technical documentation and runbooks
+ Qualifications 
+ Skills and Experience 
+ The candidate should demonstrate expertise in:
+ Experience with Generative AI, Agentic AI, or LLM-based solutions.
+ Proficiency in Python, including FastAPI, Pydantic and Pandas.
+ Experience designing and implementing AI Harness or multi-agent frameworks.
+ Hands-on experience with LangChain & LangGraph.
+ Experience with Apache Iceberg, Trino, and Parquet-based lakehouse architectures.
+ Experience building data ingestion, transformation, and orchestration pipelines.
+ Strong knowledge of metadata management, data lineage, and data governance practices.
+ Experience developing REST APIs, SDKs, and reusable engineering frameworks.
+ Experience with observability, monitoring, tracing, and operational support practices.
+ Strong understanding of distributed systems, event-driven architectures, and microservices patterns.
+ Proven ability to design, develop, and operationalize enterprise-grade AI agents for data discovery, ingestion, transformation, optimization, governance, and observability.
+ Familiar with modern data engineering technologies, including DuckDB, dbt, and related engineering tools for data transformation, modelling, and pipeline development.
+ Senior engineers will be expected to have demonstrated evidence of leading technical designs, guiding junior engineering team members, working independently with clients and delivery teams, and translating AI/data requirements into scalable, secure, and deployable solutions.
+ We are driven by our AEIOU beliefs—Adventure, Excellence, Integrity, Ownership, and Unity—and we seek individuals who embody these values in both their professional and personal lives. We are committed to our Impact: Valuing our clients, Growing our people, and Creating our future.
+ Together, we make the extraordinary happen.
+ Learn more about us at ncs.co and visit our LinkedIn career site.
+ Scam Alert 
+ We are aware of fraudulent job offers and impersonations of NCS recruiters. Phishing emails using convincing-looking but fake addresses are also commonly used to trick you into thinking that they come from official NCS sources. 
+ Please note that all official communications from NCS Group will only be sent from verified corporate email addresses. Always check that the sender’s email address ends with the genuine NCS domain, @ncs.com.sg and beware of extra letters, symbols or misspellings. When in doubt, verify the sender’s identity by contacting us at reachus@ncs.com.sg.
+
+MCF skills tags: Approval Workflow, Data Ingestion, AI Agents, Agent Orchestration, Communicating With Agents, Data Orchestration, LangGraph, Computer Proficiency, Scientific Expertise, Workflow Management, Function Calling, site architecture, Generative AI, FastAPI, Developing Skills, Context Engineering

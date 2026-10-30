@@ -1,0 +1,125 @@
+# Agilent (via Cielo Talent) | Global Operations Data Engineer
+# https://www.mycareersfuture.gov.sg/job/information-technology/global-operations-data-engineer-agilent-technologies-singapore-79bf09cf4be5be003e3adf60f15f8dff
+
+Global Operations Data Engineer
+Job Description 
+ Build the trusted data foundation that powers intelligent operations.
+Join Agilent's Global OT & AI Engineering organization and help shape the future of digital manufacturing through modern data engineering.
+As a Global Operations Data Engineer, you will design, develop, and maintain enterprise data platforms that transform operational data into trusted, reusable, and AI-ready assets. You will build scalable data pipelines, cloud-native data solutions, and enterprise integration services while implementing data governance practices that ensure data quality, consistency, lineage, and reliability across Agilent's global operations.
+Working closely with Data Architects, AI & Data Scientists, Software Engineers, Manufacturing Engineers, and business stakeholders, you will enable a connected data ecosystem that supports enterprise applications, operational reporting, Artificial Intelligence, Smart Factory initiatives, and executive decision-making.
+We welcome candidates across multiple career stages. Responsibilities and technical ownership will be aligned with your experience, expertise, and demonstrated capabilities.
+ About Global OT & AI Engineering 
+ Global OT & AI Engineering builds the digital foundation that powers Agilent's global manufacturing operations.
+ Our organization develops enterprise software, AI platforms, cloud-native applications, smart factory technologies, and enterprise data platforms that connect manufacturing sites into one intelligent ecosystem.
+ Our mission is to transform operational data into trusted insights and intelligent decisions that improve how products are designed, manufactured, tested, and delivered worldwide.
+ Our portfolio includes:
+ Manufacturing AI & Advanced Analytics
+ Global Operations Control Tower
+ Smart Factory & Industry 4.0
+ Enterprise Data Platform
+ Digital Twin Solutions
+ Manufacturing Knowledge Platform
+ AI-powered Decision Support
+ Enterprise Data Exchange Platform
+ About the Role 
+ Modern manufacturing depends on reliable, connected, and trusted data.
+ Every day, enterprise systems, manufacturing equipment, industrial IoT devices, quality systems, and engineering applications generate vast amounts of operational data. The value of this data depends on the ability to integrate, manage, govern, and deliver it efficiently to the people and systems that rely on it.
+ As a Global Operations Data Engineer, you will build the enterprise data platform that powers Agilent's digital operations. You will develop scalable data pipelines, implement data governance capabilities, and create reusable data products that enable analytics, Artificial Intelligence, digital applications, and operational excellence.
+ Your work will directly support initiatives such as the Global Operations Control Tower, AI-powered decision support, Smart Factory programs, Digital Twins, and enterprise reporting.
+ Key Responsibilities 
+ Enterprise Data Platform Development 
+ Design, develop, and maintain scalable enterprise data pipelines that integrate data from Manufacturing, Supply Chain, Procurement, Logistics, Quality, Engineering, ERP, MES, and Industrial IoT platforms.
+ Build reusable data products and curated datasets that support enterprise reporting, analytics, AI applications, and digital products.
+ Develop cloud-native data solutions that enable secure, scalable, and high-performance access to operational data.
+ Optimize data processing, storage, and orchestration to ensure platform reliability and scalability.
+ Data Integration & Engineering 
+ Develop and maintain ETL/ELT pipelines supporting enterprise and operational systems.
+ Design APIs and integration services that enable seamless data exchange across enterprise applications.
+ Implement batch, streaming, and event-driven data processing architectures.
+ Collaborate with Software Engineers to expose trusted data through APIs and enterprise services.
+ Support enterprise integration across SAP, MES, PLM, Quality Systems, cloud platforms, and operational technologies.
+ Data Governance & Quality 
+ Implement enterprise data governance standards and best practices defined by the Data Architecture team.
+ Develop automated data quality validation, monitoring, reconciliation, and exception handling processes.
+ Maintain enterprise metadata, data lineage, and catalog information to improve discoverability and traceability.
+ Support Master Data Management (MDM) initiatives by ensuring consistency of critical business data.
+ Monitor enterprise data quality metrics and proactively resolve data integrity issues.
+ Collaborate with business stakeholders to identify Critical Data Elements (CDEs) and improve data reliability across operational systems.
+ Promote governance practices that ensure enterprise data remains accurate, secure, trusted, and fit for business use.
+ AI & Analytics Enablement 
+ Prepare and maintain AI-ready datasets supporting Machine Learning and advanced analytics.
+ Collaborate with AI & Data Scientists to develop feature engineering pipelines and reusable analytical datasets.
+ Support semantic data models that enable self-service reporting and enterprise analytics.
+ Improve accessibility, consistency, and reuse of enterprise data across digital products and AI platforms.
+ Platform Reliability & Continuous Improvement 
+ Monitor the health, availability, and performance of enterprise data pipelines and services.
+ Implement observability, logging, monitoring, and alerting capabilities for critical data platforms.
+ Apply DevOps and CI/CD best practices to automate deployment, testing, and operational support.
+ Continuously evaluate emerging technologies and engineering practices to improve the enterprise data platform.
+ Cross-functional Collaboration 
+ Partner with Data Architects to implement enterprise data architecture, standards, and integration strategies.
+ Collaborate with Manufacturing, Supply Chain, Quality, Engineering, and IT teams to understand business requirements and deliver scalable data solutions.
+ Work closely with Software Engineers and AI teams to integrate trusted data into enterprise applications and intelligent solutions.
+ Support enterprise digital transformation initiatives across Agilent's global operations.
+ Technology Environment 
+ You will work with a modern enterprise technology stack, including:
+ Programming & Data Engineering 
+ Python
+ SQL
+ Apache Spark
+ dbt
+ Cloud & Data Platforms 
+ Microsoft Azure
+ AWS
+ Microsoft Fabric
+ Azure Data Lake
+ Snowflake
+ Integration & Streaming 
+ REST APIs
+ Azure Event Hub
+ Apache Kafka
+ Data Factory
+ Enterprise Systems 
+ SAP ERP / S/4HANA
+ SAP ME / MES
+ PLM
+ Quality Management Systems
+ Industrial IoT Platforms
+ Data Governance 
+ Microsoft Purview
+ Master Data Management (MDM)
+ Data Catalog
+ Metadata Management
+ Data Lineage
+ Data Quality Monitoring
+ DevOps 
+ GitHub
+ Azure DevOps
+ Docker
+ Analytics 
+ Power BI
+ Microsoft Fabric
+ Streamlit (preferred)
+ Qualifications 
+ Required Qualifications 
+ We welcome candidates across multiple career stages. Responsibilities and technical leadership will be aligned with your experience and demonstrated capability.
+ You should have:
+ Bachelor's or Master's degree in Computer Science, Data Engineering, Information Systems, Software Engineering, Engineering, or a related discipline.
+ Experience in Data Engineering, Software Engineering, Data Integration, or Enterprise Data Platforms.
+ Strong programming skills in Python and SQL.
+ Experience building and maintaining scalable data pipelines and cloud-based data solutions.
+ Understanding of data modeling, ETL/ELT processes, API integration, and enterprise data management principles.
+ Strong analytical, problem-solving, and communication skills.
+ Passion for building modern data platforms that enable digital transformation.
+ Preferred Qualifications 
+ Experience in one or more of the following areas is advantageous:
+ Manufacturing, Supply Chain, Quality, or Enterprise Operations
+ Cloud-native Data Platforms (Azure, AWS, Databricks, Microsoft Fabric)
+ Data Lakehouse or Data Warehouse Architecture
+ Event-driven Data Processing
+ Data Governance, Metadata Management, or Master Data Management (MDM)
+ Artificial Intelligence or Advanced Analytics Platforms
+ Industry 4.0, Industrial IoT, or Smart Manufacturing
+ DevOps and CI/CD practices
+
+MCF skills tags: Analytical Approach, Data Reports, Distributed Platforms, Design, Enterprise Integration Solution, Computer Engineering, ETL Tools, Data Pipeline, Data Integration, Computer Science, Career Exploration, Data Engineering, Data and Information Management, Programming, Enterprise Database System Administration, Cloud Native Development

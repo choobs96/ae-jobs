@@ -1,0 +1,29 @@
+# Astek Singapore | Data Platform Engineer
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-platform-engineer-astek-singapore-innovation-technology-0175cf938a53a5c2a1be0c07c71ddc1a
+
+Data Platform Engineer
+Role Overview
+ We are looking for an experienced Data Platform Engineer to support the development and operations of Data Warehouse . The role will focus on building and maintaining scalable data pipelines, ETL/ELT workflows, data platforms, and analytics engineering solutions, while providing ongoing production and application support.
+ Key Responsibilities
+ Develop and maintain data pipelines, ETL/ELT processes, and analytics engineering workflows to support advanced data search and retrieval.
+ Collaborate with data and engineering teams to understand requirements and automate deployment, monitoring, and operational processes .
+ Optimise data storage, processing, and query performance while troubleshooting technical issues.
+ Coordinate with data engineers and stakeholders to support sprint planning and timely delivery .
+ Perform BAU monitoring, investigation, troubleshooting, and incident resolution .
+ Support data governance and data management initiatives.
+ Provide day-to-day production and application support , ensuring platform stability and reliability.
+ Develop and maintain unit and integration tests to ensure data and application quality.
+ Requirements
+ Degree in Computer Science, Information Technology , or a related discipline.
+ At least 5 years of hands-on Software Engineering or Data Engineering experience .
+ Strong programming experience in Python and ETL 
+ Strong experience with unit and integration testing .
+ Experience with AWS and Kubernetes (K8s) .
+ Familiarity with modern data platforms and technologies such as Snowflake, Databricks, Apache Spark, Apache Hive, Delta Lake, Apache Iceberg, and vector databases .
+ Experience with workflow/orchestration technologies such as Apache Airflow, Dagster, Prefect, or Temporal .
+ Familiarity with GitHub workflows, Datadog, DevOps practices, and Agile methodologies .
+ Good analytical, troubleshooting, communication, and collaboration skills.
+ Key Technologies
+ Python | AWS | Kubernetes | Snowflake | Databricks | Apache Spark | Apache Hive | Delta Lake | Apache Iceberg | Vector Databases | Airflow | Dagster | Prefect | Temporal | GitHub | Datadog | ETL/ELT
+
+MCF skills tags: Git, Temporal Logic, Apache Spark, Kubernetes, ETL Tools, AWS, Data Management, ETL, Databricks, Data Governance, Data Lake, Python, User Acceptance Testing, Hive, Data Infrastructure, Integration Testing, GitHub, Dagster, Bau Support

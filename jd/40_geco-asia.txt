@@ -1,0 +1,52 @@
+# GECO Asia | Data Platform Engineer
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-platform-engineer-geco-asia-4188476f8feeb67be434fdfed659b0ae
+
+Data Platform Engineer
+Job Summary: 
+ Role: Data Platform Engineer
+ Start: ASAP
+ Duration: 12 Months
+ Location: Singapore
+ We are seeking an experienced Data Platform Engineer to design, build, optimize, and support modern analytics platforms and lakehouse solutions. You will play a key role in developing scalable data pipelines, optimizing distributed query workloads, and supporting enterprise analytics platforms across a high-performance data ecosystem. Candidates should possess deep expertise in modern data architectures, MPP platforms, and large-scale analytical processing.
+ Requirements: 
+ - Bachelor's Degree in Computer Science, Information Technology, Data Engineering, or a related discipline.
+ - 7-8+ years of experience in Data Engineering, Analytics Engineering, Data Platforms, or Big Data ecosystems.
+ - Experience working in enterprise-scale analytics and data environments.
+ - Strong analytical, problem-solving, and stakeholder management skills.
+ Mandatory Skills 
+ - Hands-on experience with Apache Doris (or similar MPP platforms such as StarRocks, ClickHouse, or Greenplum).
+ - Advanced SQL development and query optimization skills.
+ - Strong understanding of Apache Doris architecture, data models, partitioning, and performance tuning.
+ - Experience with Apache Iceberg, Delta Lake, or Apache Hudi.
+ - Experience with Snowflake and/or Apache Spark.
+ - Hands-on experience with Trino, PrestoSQL, or Presto.
+ - Solid knowledge of MPP/distributed query processing, performance optimization, and data architecture concepts.
+ - Experience working with cloud object storage, Parquet, and ORC file formats.
+ - Proficiency in Python, Java, or Scala.
+ - Experience with Git and CI/CD pipelines for data platforms.
+ Nice-to-Have Skills 
+ - Experience with modern lakehouse architectures and data mesh concepts.
+ - Cloud platform experience (AWS, Azure, or GCP).
+ - Data warehouse and analytics platform migration projects.
+ - Infrastructure automation and DevOps practices.
+ - Real-time analytics and streaming technologies.
+ Roles and Responsibilities: 
+ - Design, develop, and optimize enterprise data platforms and analytics solutions.
+ - Build and maintain scalable data pipelines and lakehouse architectures.
+ - Support and optimize MPP query engines, data warehouses, and distributed processing environments.
+ - Drive performance tuning, platform modernization, and workload optimization initiatives.
+ - Collaborate with architects, analysts, and engineering teams to deliver reliable and scalable data solutions.
+ - Support platform automation, CI/CD, governance, and operational best practices.
+ - Troubleshoot complex data platform issues and ensure operational excellence.
+ Please send your application highlighting:
+ - Your relevant experience
+ - Current/expected salary
+ - Availability information
+ - A latest MS-WORD Resume
+ **We regret that only short-listed applicants will be contacted.**
+ GECO Asia values the data privacy rights of our customers, associates, partners and prospective applicants. We have a privacy policy that governs our collection and use of personal data in place. In conjunction with the PDPA act in Singapore, we have updated our Privacy Policy and Terms of Use to better clarify our collection and use of your personal information. The same can be found here (https://www.geco.asia/about/privacy-policy)
+ Note: GECO Asia is an Information Technology Consulting Services provider. We provide specialist IT and Digital Transformation specialist resources on a project (SOW) and/or permanent basis. We operate under a Comprehensive License offered by Ministry of Manpower, Singapore.
+ [GECO Asia Pte Ltd, License No. 07C4453]
+ [2 Venture Drive, #10-18 Vision Exchange, Singapore 608526]
+
+MCF skills tags: Apache Spark, ClickHouse, AWS, ETL, Data Engineering, SQL, Python, CI/CD, Data Architecture, OLAP

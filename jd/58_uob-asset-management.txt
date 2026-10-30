@@ -1,0 +1,43 @@
+# UOB Asset Management | AVP Data Engineer
+# https://www.linkedin.com/jobs/view/4464975772
+
+AVP, Data Engineer, UOB Asset Management - Business Technology
+Company: 6110 UOB Asset Management Ltd
+ About UOB
+ United Overseas Bank Limited (UOB) is a leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America. In Asia, we operate through our head office in Singapore and banking subsidiaries in China, Indonesia, Malaysia and Thailand, as well as branches and offices. Our history spans more than 80 years. Over this time, we have been guided by our values – Honorable, Enterprising, United and Committed. This means we always strive to do what is right, build for the future, work as one team and pursue long-term success. It is how we work, consistently, be it towards the company, our colleagues or our customers.
+ Job Description
+ About UOBAM
+ Established in 1986, UOB Asset Management (UOBAM) is a wholly owned subsidiary of United Overseas Bank. Headquartered in Singapore, UOBAM has grown extensively across Asia with local presence in Brunei, Indonesia, Japan, Malaysia, Taiwan, Thailand, and Vietnam. Our network includes UOB Islamic Asset Management in Malaysia and a joint venture with China’s Ping An Trust to form Ping An Fund Management Company. We have also forged a strategic alliance with Wellington Management Singapore.
+Our experienced team of more than 90 investment professionals conduct rigorous fundamental research within a proven investment framework to provide our clients with innovative investment solutions. The strength of our team lies in our commitment to investment excellence. Our performance has been recognized by the industry and we have garnered over 340 awards regionally since 1986.
+Through our regional network, we offer global investment management expertise to individuals, institutions, and corporations. Our comprehensive suite of products ranges from retail unit trusts and exchange-traded funds to customized portfolio management services for institutional clients. A leader in innovation, UOBAM offers a digital option to manage investments with UOBAM Invest Robo-Adviser, making investing simpler, smarter and safer.
+ Job Responsibilities
+ Develop and maintain infrastructure for enterprise data platforms and machine learning.
+ Collaborate with business stakeholders to gather requirements and translate them into effective data visualizations and reporting solutions.
+ Design, build, and maintain scalable and interactive dashboards using BI tools such as Power BI, Tableau, or Looker.
+ Implement and manage data governance frameworks, including data cataloging, lineage, quality, and access controls using cloud-native tools (e.g., AWS Glue, Azure Purview, Google Cloud Data Catalog).
+ Data Platform Development & Management:
+ Design, develop, and maintain data platforms that support large-scale data ingestion, storage, and processing using cloud-based data infrastructure.
+ Implement and manage data warehousing and centralized data solutions tailored for asset management.
+ Evaluate and integrate new data technologies and tools to enhance data platform capabilities.
+ Data Pipeline Development:
+ Build and maintain robust and efficient data pipelines for data ingestion, processing, and transformation.
+ Develop and implement data quality checks and validation processes to ensure data accuracy, timeliness, and consistency.
+ Utilize ETL/ELT tools and techniques to transform and load data into target systems.
+ Employing exceptional problem-solving skills, with the ability to see and solve issues before they snowball into problems.
+ Learn and share knowledge and experience in a multi-disciplinary team.
+ Job Requirements
+ Bachelor's or Master's degree in Computer Science, Data Science, Engineering, or a related field.
+ At least 5 years of experience in data engineering, business intelligence, machine learning engineering, or a related role in a production environment.
+ Familiarity with data governance frameworks (e.g., DAMA-DMBOK) and regulatory compliance (e.g., GDPR, CCPA).
+ Hands-on experience in Python and SQL. Experience with other programming languages (e.g., Java, Scala, C++) is a plus.
+ Experience in best practices such as DataOps and MLOps
+ Experience with big data technologies and cloud platforms such as BigQuery, Kafka, GCP, AWS and their data engineering and machine learning products and services.
+ Strong understanding of software development best practices, including version control (Git), testing, and CI/CD.
+ Excellent communication and organizational skills, and the ability to stay focused on completing tasks and meeting goals within a busy workspace.
+ Skilled at working in tandem with a team of engineers, or alone as required.
+ Strong troubleshooting and analytical skills.
+ Cloud and data certifications are a plus.
+ Additional Requirements
+ Be a Part of the UOB Family
+UOB is an equal opportunity employer. UOB does not discriminate on the basis of a candidate's age, race, gender, color, religion, sexual orientation, physical or mental disability, or other non-merit factors. All employment decisions at UOB are based on business needs, job requirements and qualifications. If you require any assistance or accommodations to be made for the recruitment process, please inform us when you submit your online application.
+Apply now and make a Difference

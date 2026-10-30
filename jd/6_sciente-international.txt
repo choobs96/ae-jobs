@@ -1,0 +1,44 @@
+# Sciente International (agency) | Data Engineer / Analytics Engineer (JD#11356)
+# https://www.mycareersfuture.gov.sg/job/banking-finance/data-engineer-analytics-engineer-sciente-international-e3adb256baaf5a315a28640f4cd171ff
+
+Data Engineer/ Analytics Engineer (JD#11356)
+Job Summary 
+ We are looking for a mid-level Analytics Engineer / Data Engineer with 3–6 years of relevant experience to support the development, modernization, and maintenance of data and analytics platform for a reputed bank .The role will involve building reliable data pipelines, developing analytical data models, implementing reusable business logic, troubleshooting data issues, and contributing to the modernization of existing data processes using modern software engineering and cloud technologies.
+ Mandatory Skill-set 
+ Degree in Computer Science, Data Analytics, Information Technology and related discipline;
+ 3–6 years of experience in Data Engineering, Analytics Engineering, Data Warehousing, or related areas;
+ Strong hands-on experience with SQ;
+ Good working knowledge of Python for data processing and automation;
+ Strong understanding of dimensional data modelling, including: Star schemas, Fact tables, Dimension tables, Data marts, Star schemas, Fact tables, Dimension tables, Data marts;
+ Hands-on experience with dbt or an equivalent data transformation framework;
+ Experience with at least one workflow orchestration tool, such as: Apache Airflow, Cloud Composer, Equivalent orchestration platforms;
+ Good understanding of ETL/ELT concepts and data warehousing;
+ Understanding of semantic layers, business metrics, and reusable business logic;
+ Knowledge of software engineering best practices, including: Git/version control, Code reviews, Unit and data testing, CI/CD;
+ Ability to troubleshoot data quality, pipeline, and transformation issues independently.
+ Desired Skill-set 
+ Experience working with Google Cloud Platform (GCP);
+ Experience with cloud data platforms and cloud-native data engineering solutions.
+ Responsibilities 
+ Design, develop, and maintain data pipelines and analytical datasets;
+ Develop and optimize SQL-based transformations and data models;
+ Build and maintain dimensional data models, including fact tables, dimension tables, star schemas, and data marts;
+ Develop data transformation workflows using dbt or equivalent frameworks;
+ Develop and manage workflows using Airflow, Cloud Composer, or equivalent orchestration tools;
+ Implement reusable business logic and common business metrics;
+ Support the development and maintenance of semantic and analytical layers;
+ Implement data quality checks, testing, validation, and monitoring;
+ Investigate and resolve data, pipeline, and transformation issues;
+ Identify root causes of data issues and implement appropriate corrective actions;
+ Follow software engineering best practices, including Git, code reviews, testing, documentation, and CI/CD;
+ Work closely with Data Engineers, Analytics Engineers, Developers, Analysts, and Business Stakeholders;
+ Understand existing legacy/.NET business processes and support their migration, redesign, or modernization;
+ Contribute to the adoption of modern cloud-based data engineering and analytics practices;
+ Ensure data solutions are reliable, scalable, maintainable, and reusable;
+ Support BI and reporting requirements by providing trusted and well-structured analytical datasets.
+ Should you be interested in this career opportunity, please send in your updated resume to apply@sciente.com at the earliest.
+ When you apply, you voluntarily consent to the disclosure, collection and use of your personal data for employment/recruitment and related purposes in accordance with the SCIENTE Group Privacy Policy, a copy of which is published at SCIENTE’s website (https://www.sciente.com/privacy-policy).
+ Confidentiality is assured, and only shortlisted candidates will be notified for interviews.
+ EA Licence No. 07C5639
+
+MCF skills tags: Design, Airflow, Data Modelling, Data Pipeline, AWS, Data Transformation, Big Data Analytics, ETL, Workflow Development, Data Engineering, DBT, SQL, Python, Data Marts, Semantic Layer, Dimensional Modeling, GCP, Orchestration, Data Warehousing, Testing

@@ -1,0 +1,44 @@
+# GIC | AVP/VP Data Engineer, Technology Group
+# https://www.linkedin.com/jobs/view/4284785951
+
+AVP/VP, Data Engineer, Technology Group
+GIC is one of the world’s largest sovereign wealth funds. With over 2,000 employees across 11 locations around the world, we invest in more than 40 countries globally across asset classes and businesses. Working at GIC gives you exposure to an extraordinary network of the world’s industry leaders. As a leading global long-term investor, we Work at the Point of Impact for Singapore’s financial future, and the communities we invest in worldwide.
+ Technology Group
+ We experiment, design, and lead a 24×7 global business where we support core capabilities in asset management, trading, investment operations, and risk management. We deliver secure, reliable, and integrated solutions, and provide insights on new, and emerging technologies.
+ Enterprise and Data Technology
+ Enterprise & Data Technology builds and advances the technology that underpins our enterprise and data capabilities. It brings together our core technology and data experts to design and deliver platforms for integration, analytics, and innovation. By combining these strengths into one coordinated group, we create seamless solutions that connect systems, improve data accessibility, and leverage AI at the platform level to enable smarter decision-making. Through modern, scalable, and secure technology, the team empowers the organisation with tools that drive insight, collaboration, and operational excellence.
+ What impact can you make in this role?
+ You will be empowered to be at the top of your game by providing technical contributions to achieve data-driven outcomes to power critical investment data & analytics in GIC’s vision of being a tech-driven, global, long-term investment firm.
+ What will you do as a Data Engineer?
+ Be part of an ambitious team that provides investment data services for enterprise activities. You can make a difference in our forward-looking journey to shape our world of investments.
+ Play a pivotal role in building and supporting enterprise investment data & analytics systems consumed by investment professionals and platforms across the firm. You will also develop and maintain relationships with business leaders, product management and technical teams to understand priorities and expected business outcomes.
+ Develop business solutions using your strong analytical skills, and help the team bring technology value directly to the business. You will also be exposed to key investment processes across the firm, learning valuable business domain knowledge.
+ Lead software delivery for fast-moving agile projects with modern DevSecOps practices (e.g. Github, Jfrog, Jira) and data technologies (eg. Databricks, Python, DBT, Airflow). You will also work with external experts and solution architects on with AWS cloud native technologies.
+ Actively provide technical leadership, direction and mentorship to raise the quality bar for engineering talent – attracting, retaining, and improving the best developers in the industry.
+ Become an excellent team player with a collaborative mind-set, you will work directly with investment and technology professionals at different levels. You will also work alongside experienced professionals across our extended Technology team in GIC as well as have exchanges with other industry partners. 
+ What makes you a successful candidate?
+ Join us if you have a passion for data and want to be part of a team in building and developing GIC’s data foundation and infrastructure.
+ 8+ years hands on experience working and leading development work in data engineering, including data analytics, data transformation, data modelling, reporting, data visualization, preferably in financial institutions or in asset management services
+ Experience in the following skills:
+ Extensive experience in Python, PySpark, SparkSQL, SQL, DBT, and Pandas
+ Good understanding and experience with cloud services, such as AWS
+ Good experience with Docker, Kubernetes, GitHub workflows, and other DevOps capabilities such as CI/CD pipelines and Terraform
+ Good experience in visualization or BI tools such as Tableau, or Microsoft Power BI
+ Strong understanding in data architecture, management & governance concepts related to lake-house, data lineage and data quality
+ Willingness to learn with attention to detail, demonstrating a strong passion in technology and/or financial data
+ Strategic thinker and problem solver who approaches tasks with motivation and commitment
+ Good system design thinking being able to structurally breakdown problems, simplifying complex problems into parts to drive overall business outcomes
+ Good presentation skills, and communication skills across technical and non-technical audiences, effectively translating complex technical concepts into business terms
+ Strong people leadership to engage with Data Engineers and guide hands-on development to demonstrate their mentorship and connectedness with the everyday needs of developers
+ Strong business leadership to engage with our stakeholders in all functions and levels. Ability to collaborate and influence cross-department business and technical partners to contribute to the development of technical strategies
+ Bachelor’s or equivalent degree in Science, Technology, Engineering and Mathematics (STEM) related discipline is advantageous.
+ Work at the Point of Impact
+ We need to be forward-looking to attract the right people to help us become the Leading Global Long-term Investor. Join our ambitious, agile, and diverse teams - be empowered to push boundaries and pursue innovative ideas, share your views, and be heard. Be anchored on our PRIME Values: Prudence, Respect, Integrity, Merit and Excellence, which guides us in how we make our day-to-day decisions. We strive to inspire. To make an impact.
+ Flexibility at GIC
+ At GIC, our offices are vibrant hubs for ideation, professional growth, and interpersonal connection. At the same time, we believe that flexibility allows us to do our best work and be our best selves. Thus, our teams come into the office four days per week to harness the benefits of in-person collaboration, but have the flexibility to choose which days they work from home and adjust this arrangement as situational needs arise.
+ We are an equal opportunity employer
+ GIC is an equal opportunity employer, and we value diversity. We do not discriminate based on race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment.
+ Learn more about our Technology Group here:
+ https://gic.careers/group/technology-group/
+ Our PRIME Values
+ GIC is a values driven organization. GIC’s PRIME Values act as our compass, enabling us to fulfil our fundamental purpose and objectives. It is the foundational bedrock which governs our behaviors, our decision making, and our focus. It informs both our long-term strategy as a firm, and the way we relate to our Client, business partners and employees. PRIME stands for Prudence, Respect, Integrity, Merit and Excellence.

@@ -1,0 +1,62 @@
+# GovTech (AGC) | Senior / Data Engineer (AGC)
+# https://jobs.careers.gov.sg/jobs/greenhouse/4004030201?gh_jid=4004030201
+
+Senior / Data Engineer (AGC)
+The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrastructure, and Cybersecurity. 
+ At GovTech, we offer you a purposeful career to make lives better. We empower our people to master their craft through continuous and robust learning and development opportunities all year round. Our GovTechies embody our Agile, Bold and Collaborative values to deliver impactful solutions. 
+ GovTech aims to transform the delivery of Government digital services by taking an "outside-in" view, putting citizens and businesses at the heart of everything we do. Play a part in Singapore’s vision to build a Smart Nation and embark on your meaningful journey to build tech for public good. 
+ Join us to advance our mission and shape your future with us today! 
+ Learn more about GovTech at tech.gov.sg 
+ [Brief Overview] 
+ The Attorney-General's Chambers (AGC) is Singapore's principal government legal service, responsible for legislation drafting, legal advisory, prosecution, and international law. AGC is undergoing digital transformation which includes the modernisation of its legislative drafting systems, the adoption of AI-powered knowledge management tools, and the development of a centralised data infrastructure to support evidence-based legal work products.
+ Design and maintain scalable data pipelines, system integrations, and AWS cloud infrastructure to support AGC’s analytics and AI ambitions
+ Consolidate siloed datasets across teams and systems into a centralised data warehouse
+ Ensure AGC’s cloud environments are scalable, secure, and well-governed through Infrastructure-as-Code (IaC) and sound data architecture
+ Prepare and structure data to support AI-powered tools including LLM based application across AGC product suite
+ You will be comfortable taking ownership across both data engineering and cloud infrastructure, working closely with data analysts to translate business logic into reliable pipelines, infrastructure teams to maintain the centralised data warehouse, cross-functional product teams building AI-powered tools and subject matter experts (SMEs) to make sense of AGC’s complex domain requirements.
+ Requires 5 - 8 years of data or cloud engineering experience with strong proficiency in Python, SQL, AWS, and Terraform and a proven ability to design and maintain robust data infrastructure. 
+ [What you will be working on] 
+ 1. Build and maintain foundational data infrastructure and analytics capabilities 
+ Design and maintain data pipelines, integration processes, and data architecture to support analytics capabilities.
+ Monitor data quality, identify gaps in data, and implement solutions to ensure reliable data foundations.
+ Develop and maintain scalable data models and structures to support both operational and strategic analytics needs.
+ Ensure data pipelines deliver reliable and timely data to support operational reporting and business performance tracking.
+ Establish data collection standards, technical specifications, and system integrations across AGC.
+ 2. Maintain scalable, secure, and well-governed AWS cloud infrastructure 
+ Provision and maintain AWS services to support operational and business needs.
+ Collaborate with internal and external teams to implement system-to-system integrations, including ingestion of data from upstream systems and delivery of data to downstream consumers.
+ Write and maintain Infrastructure-as-Code (IaC) using Terraform to enable consistent, version-controlled, and repeatable deployments.
+ Work with the Infrastructure Team to monitor cloud infrastructure health, identify and address vulnerabilities and configuration gaps.
+ 3. Data Exploration & AI Support 
+ Map AGC’s data landscape and assess existing datasets for quality gaps, inconsistencies, and readiness for downstream analytics and AI use.
+ Investigate how unstructured legal data (documents, correspondence, legislative amendments) can be processed and transformed into structured, meaningful outputs, partnering with SMEs to develop tagging, labelling, and classification frameworks.
+ Support the development of NLP solutions and LLM-based applications by preparing high-quality data inputs, defining success metrics, and collaborating with product teams throughout the full product lifecycle.
+ Stay current with emerging data science techniques and evaluate their applicability to legal operations.
+ 4. Data Governance & Standards 
+ Define and document AGC’s data governance standards including access controls, lineage tracking, and read-only data policies for the centralised hub.
+ Maintain reproducibility and transparency across all data infrastructure and pipeline work.
+ Build data literacy across AGC through knowledge sharing and best practices with non-technical colleagues.
+ [What we are looking for] 
+ 5–8 years of hands-on data engineering or data science experience, including time spent in ambiguous or greenfield environments where data structures were undefined or incomplete
+ Proven ability to design and maintain robust data pipelines, integration processes, and data architecture in complex, domain-heavy environments
+ Hands-on experience with AWS services (e.g. S3, Glue, Redshift, Lambda) and a working understanding of cloud architecture principles for data workloads
+ Strong proficiency in Python for data engineering, scripting and automation
+ Strong proficiency in SQL and experience designing and maintaining data models and relational databases
+ Experience designing and maintaining data pipelines and integration processes, with exposure to data warehousing platforms (e.g Databricks, Snowflake, BigQuery, PostgreSQL)
+ Experience collaborating in agile, cross-functional product teams with engineers, product managers, and domain experts
+ Strong communication skills - able to hold your own in conversations with legal professionals, engineers, and senior leadership, and present complex findings clearly
+ Comfortable with ambiguity - you create structure where none exists and drive progress without waiting for perfect conditions
+ (Good to have) Experience with Terraform or equivalent Infrastructure-as-Code (IaC) tools to manage Cloud deployments in a version-controlled, repeatable manner
+ (Good to have) Experience working with unstructured or document-heavy data
+ (Good to have) Experience in public sector, legal, or regulated environments is advantageous
+ We Also Value 
+ Intellectual curiosity by asking why, not just how.
+ A bias towards action: you prefer testing ideas over debating them.
+ A collaborative mindset - you can work with domain experts, engineers, and leadership.
+ What we offer you: 
+ GovTech is an equal opportunity employer committed to fostering an inclusive workplace that values diverse voices and perspectives, as we believe that diversity is the foundation to innovation.    
+ Our employee benefits are based on a total rewards approach, offering a holistic and market-competitive suite of perks. These include leave benefits to meet your work-life needs and employee wellness programs.  
+ We champion flexible work arrangements (subject to your job role) and trust that you will manage your own time to deliver your best, wherever you are, and whatever works best for you.  
+ Please note that this will be a 2-year fixed term contract. 
+ Learn more about life inside GovTech at go.gov.sg/GovTechCareers. 
+ Stay connected with us on social media at go.gov.sg/ConnectWithGovTech

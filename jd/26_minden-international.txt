@@ -1,0 +1,31 @@
+# Minden International | Senior Data Engineer
+# https://www.mycareersfuture.gov.sg/job/engineering/senior-data-engineer-minden-international-4324ed93796f3c3f01ffa4f701231318
+
+Senior Data Engineer
+Who we are: 
+ minden.ai is a technology venture founded by Temasek in strategic partnership with DFI Retail Group and coalition partners DBS Bank, PAssion Card, Mandai Wildlife Group, Singtel, FoodPanda, GoJek and Great Eastern. We are on a mission to redefine the engagement between brands and consumers in Southeast Asia.
+ The way we work: 
+ At Minden, we treat each other with respect. We embrace authenticity and transparency. We pride ourselves on agility and innovation, and believe in embracing continuous learning and self-improvement. We strive to be the preferred employer by providing comprehensive benefits, a dynamic and exciting working environment, work-life balance and effort recognition.
+ We are seeking for individuals with grit and passion, an insatiable intellectual curiosity and a heart for people to amplify effectiveness as a team.
+ As a Senior Data Engineer, you will: 
+ Contribute to the design and implementation of a scalable and reliable data platform based on the data mesh principles with modern data stack. 
+ Develop and maintain efficient data pipelines to ingest, transform, and store data from various sources.
+ Collaborate with engineers across domains to understand their data needs and develop self-service data platform features, improve developer experience, build data access tools and APIs.
+ Contribute to the development and improvement of internal Data Products/Data Marts, Data Modeling and Data Product’s Usability
+ Partner with the data science and analytics teams and other upstream internal and external customers of the data platform to ensure their data needs are met.
+ Improve data quality, observability, lineage, governance and lifecycle management across the platform.
+ Contribute to engineering best practices including CI/CD, testing, monitoring, documentation and code reviews.
+ Contribute to evaluating and introducing new technologies that improve developer productivity and platform scalability.
+ Follow and contribute to the continuous improvement of data standards and best practices, and the full life cycle of Data Platform
+ What you should have: 
+ Bachelor's degree in Computer Science, Data Science, or related field
+ 5+ years of experience as a Data Engineer with Data Modelling experience, additional experience as backend software engineer is preferred
+ Proficiency in programming languages like SQL, Python and Java or Scala
+ Experience with Big Data processing frameworks and data warehouses
+ Experience with dimensional modeling, Data Warehouse concepts, SCDs and tradeoffs, modern data warehouse, and data lake, lake house, data mesh.
+ Experience with modern data stack (eg. Snowflake, dbt-core, Airflow, etc) or similar technologies is a plus. 
+ Experience in building, productionising and maintaining data lifecycle management and relevant tools. 
+ Understanding of data mesh principles and concepts is beneficial.
+ Experience working in a fast-paced environment with evolving priorities and requirements is an advantage.
+
+MCF skills tags: Complex Data Sources, Airflow, Data Modelling, Data Maintenance, Extensive Work Experience, Implementation of Best Practices, Data Management, managing developers, Platform Management, JavaScript, Data Integration, Computer Science, SQL, Data Management Services, Data Lake, CI/CD, new technologies, Data Infrastructure, Collaborate With Internal Team, Programming

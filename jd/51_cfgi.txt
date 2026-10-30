@@ -1,0 +1,88 @@
+# CFGI | Data & AI - Data Engineer
+# https://www.linkedin.com/jobs/view/4456131316
+
+Data & AI - Data Engineer
+Data & AI - Data Engineer 
+ CFGI is standing up its Data & AI build team in Singapore and is seeking a hands-on Data Engineer to build and operate the data foundation on which every client artificial-intelligence solution depends.
+ Roughly eighty per cent of the effort in any artificial-intelligence programme is the data, so this is a central, load-bearing role for an engineer who can design and run governed, audit-ready pipelines that make client data ready for analytics and for artificial intelligence.
+ This is a Manager-level role based in Singapore, working with the founding Data & AI build team — the artificial-intelligence engineers, data scientists and, as the team grows, the artificial-intelligence architect — as well as CFGI’s APAC and global Data & Analytics and controls practices and client finance, technology and data stakeholders.
+ The role is hybrid in Singapore, with occasional travel across Asia-Pacific for client work. Work-authorisation sponsorship may be supported where required.
+ Healthcare and life sciences is the priority market, with delivery extending across CFGI’s other priority sectors — technology and software, real estate and real-estate investment trusts, and industrials — with private equity engaged as a cross-cutting channel rather than a standalone sector.
+ What you might expect: 
+ Build and operate the data foundation that every client artificial-intelligence and analytics solution runs on. 
+ Design and engineer the ingestion, pipelines, lakehouse, semantic layer, and data-quality and governance controls that turn fragmented client data into authoritative, lineage-traceable, artificial-intelligence-ready data. 
+ Work hand-in-hand with the artificial-intelligence engineers, preparing and serving the data their agents, retrieval systems and models depend on, and build to a client-grade, audit-ready standard from the first engagement. 
+ Design, build and operate data ingestion and integration pipelines from client source systems — enterprise resource planning, customer systems, clinical and operational systems, files and application programming interfaces — into a governed analytics and artificial-intelligence platform, using batch and streaming as required. 
+ Build and maintain the lakehouse or warehouse and its transformation layer, modelling data for both business-intelligence consumers and artificial-intelligence consumers, with tested, version-controlled transformations and clear, documented data models. 
+ Design and maintain a governed semantic layer so that business logic, metrics and definitions are consistent and reusable across dashboards, analytics and artificial-intelligence systems rather than re-implemented and diverging in each. 
+ Prepare and serve artificial-intelligence-ready data for the engineering team — including curated datasets, embeddings source data, feature inputs and retrieval corpora that retrieval-augmented-generation and model builds depend on. 
+ Partner with the artificial-intelligence engineers on data contracts and interfaces. 
+ Own data quality, master data and lineage — quality rules and validation, entity resolution and golden records where needed, and end-to-end lineage from source through to report and control so that outputs are trustworthy and audit-ready. 
+ Embed data governance and privacy from the outset, including access controls, data classification, de-identification where required, and compliance with Singapore’s Personal Data Protection Act and the relevant Asia-Pacific cross-border-transfer and data-residency rules for each engagement, aligned to the firm’s control framework. 
+ Carry real ownership of data architecture at engagement scale and help set the data-engineering standard for the practice. 
+ Contribute to the practice’s reusable components, including pipeline templates, accelerators and standards. 
+ Help create the reusable pipelines and accelerators that allow the team to scale from bespoke builds to a repeatable delivery model. 
+ Mentor junior data resources as the team grows. 
+ What you must have: 
+ Approximately 5–10 years of strong, current, hands-on data-engineering experience building and operating production data pipelines and platforms. 
+ Experience delivering data work end-to-end to a production standard, including designing, building and operating governed data pipelines and platforms. 
+ Client-facing or executive-stakeholder delivery experience, including the ability to explain data design and technical trade-offs clearly to both technical colleagues and non-technical stakeholders. 
+ What sets you apart: 
+ Expert Python and SQL skills. 
+ Production experience with a transformation and modelling framework, particularly dbt, and disciplined, tested, version-controlled data transformation. 
+ Hands-on delivery experience with Snowflake and/or Databricks. 
+ Working understanding of open table and lakehouse storage formats such as Apache Iceberg and Delta Lake. 
+ Experience with dimensional modelling and data-vault modelling for analytics. 
+ Production experience with a data-orchestration tool such as Dagster, Apache Airflow or dbt Cloud. 
+ Experience with batch and streaming ingestion. 
+ Understanding of the distinction between event transport, such as Apache Kafka, and stream processing, such as Apache Flink. 
+ Experience with change-data-capture patterns. 
+ Experience designing semantic layers using tools or approaches such as Cube, the dbt Semantic Layer or LookML to establish consistent, governed business logic across business-intelligence and artificial-intelligence consumers. 
+ Awareness of ontologies and knowledge graphs for structured knowledge representation in artificial-intelligence-enabled systems. 
+ Familiarity with the Resource Description Framework data model, SPARQL, property-graph databases such as Neo4j, or comparable knowledge-architecture technologies. 
+ Experience with data-quality and validation frameworks such as GX Core, formerly Great Expectations, dbt tests, or comparable tools. 
+ Experience with master-data and entity-resolution techniques. 
+ Experience with data cataloguing, lineage and data-contract tooling such as Atlan, Collibra, OpenMetadata, or comparable platforms for production-grade, audit-ready data. 
+ Hands-on delivery experience on at least one major cloud platform — Microsoft Azure, Amazon Web Services or Google Cloud Platform — and its associated data services. 
+ An appreciation of infrastructure-as-code, such as Terraform, and cost-aware platform design. 
+ A working understanding of how data feeds artificial-intelligence systems, including embeddings and vector stores such as pgvector, Pinecone, Weaviate or Qdrant. 
+ Experience or working knowledge of chunking and retrieval-corpus preparation for retrieval-augmented generation. 
+ Understanding of the difference between analytics-grade and artificial-intelligence-grade data preparation. 
+ Experience building authoritative, lineage-traceable data foundations with clear controls, reproducibility and retained evidence. 
+ A practical grasp of data governance, privacy and residency across the Asia-Pacific markets the practice serves, not Singapore alone. 
+ Working awareness of Singapore’s Personal Data Protection Act and how its cross-border-transfer requirements affect data architecture and design. 
+ Working awareness of the region’s principal data-protection and data-residency regimes and how they differ on cross-border transfer, including Japan’s Act on the Protection of Personal Information, South Korea’s Personal Information Protection Act, India’s Digital Personal Data Protection Act 2023, China’s Personal Information Protection Law and Data Security Law, Hong Kong’s Personal Data (Privacy) Ordinance, Australia’s Privacy Act and Australian Privacy Principles, and the developing Southeast Asian regimes in Thailand, Malaysia, Indonesia and the Philippines. 
+ The ability to design pipelines, classification controls and residency controls that hold up across different Asia-Pacific jurisdictions. 
+ Nice to have: 
+ Healthcare and life-sciences data experience involving clinical, claims or real-world-evidence data. 
+ Experience with the interoperability standards and clinical ontologies that structure healthcare data. 
+ Familiarity with Fast Healthcare Interoperability Resources (FHIR), itself a Health Level Seven standard, and legacy Health Level Seven version 2 messaging. 
+ Familiarity with healthcare terminologies and ontologies such as Systematized Nomenclature of Medicine Clinical Terms (SNOMED CT), the International Classification of Diseases (ICD-10 and ICD-11), Logical Observation Identifiers Names and Codes (LOINC), RxNorm for medicines, and the Medical Dictionary for Regulatory Activities (MedDRA) for pharmacovigilance. 
+ Experience with the Observational Medical Outcomes Partnership (OMOP) Common Data Model for harmonising real-world evidence across sources. 
+ Familiarity with Digital Imaging and Communications in Medicine (DICOM) for medical imaging. 
+ Office-of-the-Chief-Financial-Officer data experience involving financial close and reporting, consolidation, controls or risk data — CFGI’s core buyer context. 
+ Experience building data foundations in a governed, audit-ready environment. 
+ Experience contributing reusable data accelerators to a growing practice. 
+ Who thrives here: 
+ A hands-on data engineer who enjoys owning the data foundation from ingestion through governed consumption. 
+ Someone comfortable taking real ownership of data architecture at engagement scale rather than working only within a narrowly defined component. 
+ Strong engineering judgement with the ability to distinguish between approaches that work in development and those that are appropriate for production, governed client environments. 
+ Comfortable working across ingestion, pipelines, transformation, lakehouse and warehouse design, semantic layers, data quality, governance, lineage and artificial-intelligence-ready data. 
+ Able to work closely with artificial-intelligence engineers, data scientists and client stakeholders to make data usable across analytics and artificial-intelligence use cases. 
+ Strong analytical and problem-solving skills with the ability to explain design choices and trade-offs clearly. 
+ Entrepreneurial, self-motivated, adaptable, ethical and dependable. 
+ Comfortable operating in a small, fast-scaling team where individual contributors have meaningful influence over technical standards and delivery approaches. 
+ High energy with a commitment to technical quality, trusted data, client service and practice growth. 
+ Take ownership of your career at CFGI: 
+ Join the founding Data & AI build team in Singapore and help build the data foundation of the practice from the ground up. 
+ Work directly with the Partner, Data & AI Innovation and alongside artificial-intelligence engineers and data scientists, with an artificial-intelligence architect joining as the team grows. 
+ Work within an operating model designed to build and operate client solutions end to end: you own the data foundation, the artificial-intelligence engineers build and run the models and agents on top of it, and the data scientists bring the modelling and analytics depth. 
+ Have unusual influence over how the practice’s data architecture, standards and accelerators are established because the practice is being built now. 
+ Work across sectors and the full lifecycle — from raw client data through governed pipelines to artificial-intelligence-ready data serving live solutions. 
+ Work vendor-agnostically and without audit-independence restrictions. 
+ Build reusable pipelines, templates, standards and accelerators that allow the team to move from bespoke client builds to a repeatable delivery model. 
+ Develop a direct path toward lead data-engineering opportunities as CFGI’s Asia-Pacific practice scales. 
+ Help set the data-engineering standard early and position yourself for future senior and lead appointments within the practice. 
+ CFGI is an equal-opportunity employer and selects candidates based on job-related capability without regard to nationality, ethnicity, race, religion, gender, age or any other protected characteristic. All qualified applicants are encouraged to apply.
+ Work-authorisation sponsorship may be supported but remains subject to Singapore Ministry of Manpower approval and applicable work-pass eligibility. Where the role is advertised in connection with an Employment Pass application, it will be posted on MyCareersFuture for the required period with a compliant salary range.
+ We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

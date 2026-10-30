@@ -1,0 +1,34 @@
+# GovTech (MSF) | Data Engineer (MSF)
+# https://jobs.careers.gov.sg/jobs/greenhouse/4003155201?gh_jid=4003155201
+
+Data Engineer (MSF)
+The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrastructure, and Cybersecurity. 
+ At GovTech, we offer you a purposeful career to make lives better. We empower our people to master their craft through continuous and robust learning and development opportunities all year round. Our GovTechies embody our Agile, Bold and Collaborative values to deliver impactful solutions. 
+ GovTech aims to transform the delivery of Government digital services by taking an "outside-in" view, putting citizens and businesses at the heart of everything we do. Play a part in Singapore’s vision to build a Smart Nation and embark on your meaningful journey to build tech for public good. 
+ Join us to advance our mission and shape your future with us today! 
+ Learn more about GovTech at tech.gov.sg 
+ [What you will be working on] 
+ As a Data Engineer, you will be responsible for designing, developing, and maintaining robust data infrastructure that enables analytics and insights across the organisation. You will work closely with business stakeholders, data analysts, and other technical teams to deliver scalable data solutions that support data-driven decision making. Your job scope includes (but not limited to) the following:
+ Requirements Analysis and Solution Design: Collaborate with business users, data analysts, and stakeholders to elicit and document requirements for analytics use cases. Translate business requirements into technical specifications and design optimal data architecture solutions that align with organisational data strategy and governance frameworks.
+ Data Pipeline Architecture and Design: Design end-to-end data pipelines from various source systems to different layers within the data analytics platform, including bronze (raw), silver (technical), and gold (business) layers. Ensure pipeline designs follow best practices for scalability, reliability, and maintainability whilst adhering to data governance and security requirements.
+ Data Pipeline Development and Implementation: Develop, test, and deploy data pipelines using modern data engineering tools and frameworks. Implement data transformation logic, quality checks, and error handling mechanisms to ensure reliable data processing. Build automated workflows that can handle both batch and real-time data processing requirements.
+ Data Infrastructure Maintenance and Optimisation: Monitor and maintain existing data pipelines to ensure optimal performance, reliability, and cost-effectiveness. Troubleshoot data quality issues, resolve pipeline failures, and implement performance improvements. Conduct regular reviews of data infrastructure to identify opportunities for enhancement and modernisation.
+ Data Modelling and Architecture: Design and implement appropriate data models including star schema, snowflake schema, and wide table structures based on analytical requirements. Implement Slowly Changing Dimension (SCD) strategies to handle historical data changes effectively whilst maintaining data integrity and analytical accuracy.
+ Collaboration and Knowledge Sharing: Work collaboratively with cross-functional teams including data analysts, data scientists, and business stakeholders to ensure data solutions meet business needs. Contribute to the development of data engineering best practices and standards within the organisation.
+ [What we are looking for] 
+ Experience:
+ Minimum 3-5 years of experience in data engineering, data analytics, or related technical field, with demonstrated experience in designing and implementing data pipelines and analytics solutions
+ Skills:
+ Data Architecture and Modelling: Strong knowledge of data modelling concepts including star schema, snowflake schema, and wide table designs. Proficient in implementing Slowly Changing Dimension (SCD) patterns and understanding their appropriate use cases for maintaining historical data accuracy.
+ Data Platform Technologies: Comprehensive understanding of modern data architecture patterns including Data Lake, Data Warehouse, Data Lakehouse, and Data Mesh concepts. Ability to evaluate and recommend appropriate architectural approaches based on business requirements and technical constraints.
+ Technical Programming Skills: Proficient in Python programming language with experience in data manipulation libraries (pandas, numpy), data pipeline frameworks, and API development. Strong SQL skills for data querying, transformation, and database management across various database platforms.
+ Data Engineering Practices: Solid foundation in data engineering principles including data ingestion, transformation, quality assurance, and pipeline orchestration. Knowledge of data analysis techniques and data management practices including data governance, lineage tracking, and metadata management.
+ Cloud and Platform Experience: Knowledge of Databricks and AWS cloud services will be an advantage, including experience with cloud-based data processing, storage solutions, and managed analytics services. Familiarity with infrastructure-as-code and DevOps practices for data platforms.
+ Problem-Solving and Communication: Strong analytical and problem-solving skills with the ability to troubleshoot complex data issues and optimise system performance. Excellent communication skills to effectively collaborate with both technical and non-technical stakeholders, and ability to translate business requirements into technical solutions.
+ What we offer you: 
+ GovTech is an equal opportunity employer committed to fostering an inclusive workplace that values diverse voices and perspectives, as we believe that diversity is the foundation to innovation.    
+ Our employee benefits are based on a total rewards approach, offering a holistic and market-competitive suite of perks. These include leave benefits to meet your work-life needs and employee wellness programs.  
+ We champion flexible work arrangements (subject to your job role) and trust that you will manage your own time to deliver your best, wherever you are, and whatever works best for you.  
+ Please note that this will be a 2-year fixed term contract. 
+ Learn more about life inside GovTech at go.gov.sg/GovTechCareers. 
+ Stay connected with us on social media at go.gov.sg/ConnectWithGovTech

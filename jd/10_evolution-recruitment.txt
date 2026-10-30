@@ -1,0 +1,45 @@
+# Evolution Recruitment (agency) | Data Engineer, Cloud (Banking, 1-yr renewable contract)
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-cloud-evolution-recruitment-solutions-348179316711b961409eea668176ee7f
+
+Data Engineer, Cloud (Banking, 1-year renewable contract)
+Dear Applicant,
+ If you or someone you know is interested, please send the CV directly to quynh.nguyen@evolutionjobs.sg (most preferred, as I may overlook some CVs due to the high volume).
+ Please note that visa sponsorship is not available at this time.
+ Key Responsibilities
+ Develop and modernize data and analytics solutions supporting business reporting and analytical requirements.
+ Build and maintain reliable data pipelines and transformation workflows using SQL, Python and modern data engineering tools.
+ Design and implement dimensional data models, including Star schemas, Fact tables, Dimension tables and Data marts.
+ Develop and maintain data transformations using dbt or equivalent data transformation frameworks.
+ Build and manage workflow orchestration using Airflow or equivalent orchestration tools.
+ Develop reusable business logic, semantic layers and common business metrics to support consistent analytics across the organisation.
+ Implement and maintain ETL/ELT processes and data warehouse solutions.
+ Apply software engineering best practices, including Git/version control, code reviews, unit/data testing and CI/CD.
+ Monitor, troubleshoot and resolve data quality, pipeline and transformation issues independently.
+ Collaborate with data engineers, analysts, developers and business stakeholders to understand requirements and deliver effective data solutions.
+ Work with existing business logic and processes to support their migration or redesign using appropriate cloud-native technologies.
+ Support the development of analytical datasets consumed by BI, reporting and business users.
+ Key Requirements
+ 3–6 years of relevant experience in Data Engineering, Analytics Engineering, Data Warehousing or related fields.
+ Strong hands-on experience with SQL.
+ Good working knowledge of Python for data processing and automation.
+ Strong understanding and practical experience with dimensional data modelling, including:
+ o Star schemas
+ o Fact and Dimension tables
+ o Data marts
+ Hands-on experience with dbt or an equivalent data transformation framework.
+ Experience with at least one workflow orchestration tool, such as Apache Airflow or equivalent.
+ Good understanding of semantic layers, business metrics and reusable business logic.
+ Strong understanding of ETL/ELT and data warehouse concepts.
+ Knowledge of modern software development practices, including:
+ o Git/version control
+ o Code reviews
+ o Unit and data testing
+ o CI/CD
+ Ability to troubleshoot data and pipeline issues independently.
+ Good communication and collaboration skills.
+ Experience with Google Cloud Platform (GCP) is preferred.
+ Exposure to BigQuery, Cloud Composer, Cloud Storage and other GCP data services is an advantage.
+ Ability to understand existing .NET business logic and support the conversion or redesign of processes using suitable cloud-native technologies is preferred.
+ Familiarity with BI and reporting tools and an understanding of how analytical datasets are consumed by business users is an advantage.
+
+MCF skills tags: Metrics Management, Oracle Data Warehouse Etl, Code Review, Fact Sheets, Analytics and Reporting Services, Python Scripting, Data Transformation, Software Engineering, Data Engineering, SQL, Business Logic, Version Control Systems, Workflow Orchestration, Star Schema, Data Marts, Dimensional Modeling, GCP

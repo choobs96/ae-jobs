@@ -1,0 +1,49 @@
+# Great Eastern | Lead Data Engineer
+# https://www.linkedin.com/jobs/view/4415603920
+
+Lead Data Engineer
+The Lead Data Engineer will work across IT, Data Management and Governance, Visual Analytics, Data Scientists and key Business users to deliver business analytics contextual datasets and data products that enable data-driven businesses.
+ Architect end-to-end solution for business analytics product (dashboards or statistical model) from the acquiring of data, contextualizing data for business analytics and integrating of product with business process
+ Adopt the best data engineering practices to design and build reliable data marts in the Hadoop ecosystem for planning, reporting, and analytics
+ Work closely with business stakeholders, data scientists and data analysts to communicate data requirements, collect data, and validate quality of data products
+ Collaborate with business stakeholders, data scientists and data analysts to align logics of key metrics, and to ensure code logics correctly reflect latest business definitions
+ Maintain and optimize data pipelines to ensure all data are up to date with data accuracy and integrity
+ Business process owner for onboarding business users and data products onto data platform and the data pipelines that feeds into dashboards or statistical model.
+ Work across various stakeholders to ensure smooth production deployment of data pipeline and adherence to data governance policies. 
+ Proactively identify and suggest solutions to improve data engineering process.
+ Takes accountability in considering business and regulatory compliance risks and takes appropriate steps to mitigate the risks.
+ Maintains awareness of industry trends on regulatory compliance, emerging threats and technologies in order to understand the risk and better safeguard the company.
+ Highlights any potential concerns /risks and proactively shares best risk management practices.
+ Desired Experience
+ Bachelor’s Degree in Computer Engineering, Computer Science, Mathematics, Software Engineering, equivalent fields or proven experience in data engineering
+ Stakeholder Management – Conversant in Business terms and ability to resolve and explain data analytics issues with Business users and other concerned stakeholders
+ A minimum 8 years of experience in data engineering field. An analytics practitioner with proven experience in delivering data-driven business solution and data-driven process augmentation
+ The candidate must have a demonstrated experience working with varied forms of data infrastructure inclusive of relational databases such as SQL, Hive, Cloudera, Hadoop, Spark
+ Hands-on experience with large volumes of data using SQL, Spark, Hadoop, or other big data ecosystems is preferred
+ Process oriented, and able to translate complex problems into logical and repeatable processes and diligently document the proposed technical solution
+ Prior experience in creating, managing data models, ETL and data platforms migration is preferred
+ Understanding of banking, insurance and financial services is preferred
+ Technical Skillset
+ Minimum 8 years of working experience in SQL / Hive QL / Spark
+ Minimum 8 years of programming experience in preferred languages Python / R / Java
+ Minimum 8 years of experience in data engineering work on Big Data Technology (Hortonworks / Cloudera)
+ Team Player
+ Able to work with specialist in different disciplines to formulate data solutions
+ Able to work under pressure with or without supervision
+ Able to work collaboratively as part of a team.
+ High level of integrity, takes accountability of work and good attitude over teamwork.
+ Takes initiative to improve current state of things and adaptable to embrace new changes.
+ How You Succeed
+ Champion and embody our Core Values in everyday tasks and interactions. 
+ Demonstrate high level of integrity and accountability. 
+ Take initiative to drive improvements and embrace change. 
+ Take accountability of business and regulatory compliance risks, implementing measures to mitigate them effectively. 
+ Keep abreast with industry trends, regulatory compliance, and emerging threats and technologies to understand and highlight potential concerns/ risks to safeguard our company proactively. 
+ Who We Are
+ Founded in 1908, Great Eastern is a well-established market leader and trusted brand in Singapore and Malaysia. With over S$100 billion in assets and more than 16 million policyholders, including 12.5 million from government schemes, it provides insurance solutions to customers through three successful distribution channels – a tied agency force, bancassurance, and financial advisory firm Great Eastern Financial Advisers. The Group also operates in Indonesia and Brunei. The Great Eastern Life Assurance Company Limited and Great Eastern General Insurance Limited have been assigned the financial strength and counterparty credit ratings of "AA-" by S&P Global Ratings since 2010, one of the highest among Asian life insurance companies. Great Eastern's asset management subsidiary, Lion Global Investors Limited, is one of the leading asset management companies in Southeast Asia. Great Eastern is a subsidiary of OCBC, the longest established Singapore bank, formed in 1932. It is the second largest financial services group in Southeast Asia by assets and one of the world’s most highly-rated banks, with an Aa1 rating from Moody’s and AA- by both Fitch and S&P. Recognised for its financial strength and stability, OCBC is consistently ranked among the World’s Top 50 Safest Banks by Global Finance and has been named Best Managed Bank in Singapore by The Asian Banker.
+ To All Recruitment Agencies
+ Great Eastern does not accept unsolicited agency resumes. Please do not forward resumes to our email or our employees. We will not be responsible for any fees related to unsolicited resumes.
+ Work Locations
+ SG-GE Centre
+ Job
+ Data and AI

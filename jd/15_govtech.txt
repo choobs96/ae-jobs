@@ -1,0 +1,79 @@
+# GovTech (NEA) | Senior Data Engineer (NEA)
+# https://jobs.careers.gov.sg/jobs/greenhouse/4007715201?gh_jid=4007715201
+
+Senior Data Engineer (NEA)
+The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrastructure, and Cybersecurity. 
+ At GovTech, we offer you a purposeful career to make lives better. We empower our people to master their craft through continuous and robust learning and development opportunities all year round. Our GovTechies embody our Agile, Bold and Collaborative values to deliver impactful solutions. 
+ GovTech aims to transform the delivery of Government digital services by taking an "outside-in" view, putting citizens and businesses at the heart of everything we do. Play a part in Singapore’s vision to build a Smart Nation and embark on your meaningful journey to build tech for public good. 
+ Join us to advance our mission and shape your future with us today! 
+ Learn more about GovTech at tech.gov.sg 
+ What the role is 
+ GovTech builds digital products for the Singapore Government. We are hiring a Data Engineer to support NEA's environmental protection and incident response mission.
+ Environmental pollution incidents can affect public health, disrupt operations, and require rapid coordination across multiple teams. During investigations, officers often need to draw upon data from environmental sensors, weather systems, public feedback, operational systems and geospatial sources to determine what happened, where to investigate, and what actions should be taken.
+ As a Data Engineer, you will design and build the data foundations that power environmental intelligence, operational decision-making and incident response capabilities. Your work will help transform fragmented environmental data into trusted, timely and actionable information that enables officers to respond faster and make better decisions during environmental incidents.
+ This is a mission-driven role where your engineering work directly supports environmental protection and public service outcomes.
+ What You Will Be Working On 
+ You will be part of a multidisciplinary product team building:
+ Environmental Incident Response Platforms 
+ Platforms that help officers build a common operational picture by bringing together environmental, operational and public feedback data to support faster investigations and decision-making during environmental incidents.
+ Environmental Monitoring & Intelligence 
+ Capabilities that integrate environmental monitoring systems, sensor networks, weather information, public feedback and operational datasets into trusted and actionable information for officers, analysts and management.
+ Environmental Intelligence & Data Products 
+ Data products that transform fragmented data into trusted, decision-ready insights for operational response, reporting, advanced analytics and future AI-enabled use cases.
+ What You'll Do 
+ A) Systems & Data Integration 
+ Design and develop scalable backend services and APIs to integrate environmental monitoring systems, sensor networks, public feedback platforms and operational systems
+ Build reliable data ingestion capabilities for internal and external data sources
+ Develop data integration services that support the timely exchange of environmental and operational data across multiple systems
+ Implement robust error handling, retry mechanisms and observability practices to ensure operational reliability
+ Ensure data quality, traceability and lineage across critical environmental datasets
+ B) Data Platform & Engineering 
+ Build and maintain batch and near real-time data pipelines that process environmental, operational and public feedback data
+ Design scalable data models that support incident investigations, operational reporting and analytics use cases
+ Transform fragmented datasets into trusted, consumable and decision-ready data products
+ Optimise pipeline performance, reliability and scalability to support mission-critical operations
+ Monitor, troubleshoot and resolve production data issues to maintain platform health
+ C) Analytics & Intelligence Enablement 
+ Develop curated datasets that support operational dashboards, investigative workflows and management reporting
+ Partner with Product Managers, engineers, analysts and NEA stakeholders to translate business needs into data products
+ Enable self-service analytics through discoverable, well-governed and trusted data assets
+ Support environmental intelligence, advanced analytics, modelling and future AI-enabled use cases
+ Identify opportunities to improve data accessibility, usability and decision-making across the organisation
+ D) Engineering Excellence 
+ Implement automated testing, CI/CD and deployment best practices
+ Maintain platform monitoring, alerting and operational health dashboards
+ Contribute to solution architecture, technical design and engineering standards
+ Promote best practices in software engineering, data governance, security and reliability
+ Continuously improve engineering processes, tooling and platform capabilities
+ [What we are looking for] 
+ Background 
+ 3-8 years of experience in Data Engineering, Software Engineering or related fields
+ Experience designing and operating production-grade data pipelines
+ Comfortable working with product managers, engineers, analysts and business stakeholders
+ Able to work independently in ambiguous problem spaces
+ Strong analytical and problem-solving skills
+ Technical Skills 
+ Data Engineering & Data Platforms 
+ Strong proficiency in Python and SQL
+ Experience designing and building ETL / ELT pipelines
+ Strong understanding of data modelling, data warehousing and data lake architectures
+ Hands-on experience with Databricks, Apache Spark or similar distributed data processing technologies
+ Systems Integration & Real-Time Processing 
+ Experience designing and developing APIs, backend services and data integration solutions
+ Experience integrating data from operational systems, sensor networks and external data sources
+ Familiarity with messaging and event-streaming technologies such as IBM MQ, Azure Event Hubs, Apache Kafka or equivalent
+ Experience building near real-time or streaming data pipelines
+ Cloud & Engineering Practices 
+ Experience working with cloud-native architectures and managed cloud services
+ Familiarity with CI/CD, Git and DevOps practices
+ Experience implementing monitoring, logging and observability solutions
+ Nice To Have 
+ Experience working with environmental, scientific or geospatial datasets
+ Experience integrating IoT devices, environmental monitoring systems or sensor networks
+ Experience supporting mission-critical operational systems
+ What we offer you: 
+ GovTech is an equal opportunity employer committed to fostering an inclusive workplace that values diverse voices and perspectives, as we believe that diversity is the foundation to innovation.    
+ Our employee benefits are based on a total rewards approach, offering a holistic and market-competitive suite of perks. These include leave benefits to meet your work-life needs and employee wellness programs.  
+ We champion flexible work arrangements (subject to your job role) and trust that you will manage your own time to deliver your best, wherever you are, and whatever works best for you.  
+ Learn more about life inside GovTech at go.gov.sg/GovTechCareers. 
+ Stay connected with us on social media at go.gov.sg/ConnectWithGovTech

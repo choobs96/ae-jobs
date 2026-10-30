@@ -1,0 +1,61 @@
+# Pathsource Consulting | Senior DE - Streaming and Data Platform (Contract)
+# https://www.mycareersfuture.gov.sg/job/engineering/senior-data-engineer-streaming-data-platform-urgent-hiring-pathsource-consulting-aec6282cb85b223dc6843938f1a778ca
+
+Senior Data Engineer - Streaming and Data Platform (Contract) URGENT HIRING
+The client is a Singapore-based data consultancy building anon-premises data platform for a major data-centre operator across APAC. Each site produces telemetry from thousands of nodes at rates of up to millions of data points per second.
+ This Senior Data Engineer will build the streaming pipelines that bring telemetry into the platform and establish the delivery tooling used across the wider data-engineering team.
+ This is an initial six-month contract. Any extension will depend on project requirements and is not guaranteed.
+ Immediate Availability
+ Immediate hiring priority: Priority will be given to Singapore Citizens and Permanent Residents who can start immediately or within two weeks. The role is best suited to candidates between roles, nearing the end of a contract or project, or otherwise available at short notice. Extended notice periods are unlikely to meet the project timeline.
+ Key Responsibilities
+ · Build and operate Kafka-to-Apache Iceberg streaming pipelines, beginning with alert history and documents and scaling across telemetry topics at three times current volume.
+ · Design reliable Kafka consumers or Kafka Connect integrations with correct offset management, replay and failure recovery.
+ · Run and tune Spark workloads in production across streaming and batch use cases.
+ · Design and optimise Iceberg tables covering partitioning, file sizing, compaction and schema evolution.
+ · Set up and maintain the team's data tooling, including dbt, Dagster or a comparable orchestrator, CI/CD, data-quality checks, lineage and documentation.
+ · Build feature tables and training datasets for the client's machine-learning team.
+ · Monitor data freshness, volume, performance and failures, and participate in the production on-call rotation.
+ · Pair with the client's data engineers and prepare clear runbooks for operational handover.
+ Requirements
+ · Four to seven or more years of experience building and operating production data pipelines.
+ · Strong hands-on Python and SQL skills.
+ · Production experience with Kafka consumers or Kafka Connect, including offset management and failure recovery.
+ · Experience running and tuning Spark jobs in production for streaming or batch workloads.
+ · Experience designing tables in Apache Iceberg, Delta Lake or Apache Hudi, including partitioning, file sizing, compaction and schema evolution.
+ · Experience with petabyte-scale data ingestion and performance tuning.
+ · Hands-on experience implementing dbt, an orchestrator such as Dagster, Airflow or Prefect, and CI/CD for a data-engineering team.
+ · Production on-call and incident-management experience, including incident documentation.
+ · Strong working knowledge of Linux, Docker and Git.
+ · Shortlisted candidates must complete a hands-on technical test
+ Preferred Experience
+ · Experience running data systems on-premises or on self-managed infrastructure.
+ · Experience building ingest-level data-quality checks and monitoring pipeline freshness, volume and failures.
+ · Experience with high-volume time-series or observability data using Prometheus, VictoriaMetrics or OpenTelemetry.
+ · Experience with Trino or a comparable distributed SQL engine.
+ · Experience building feature tables or training datasets for machine-learning teams.
+ · Exposure to Kubernetes, self-hosted S3-compatible storage such as MinIO or Ceph, Apache Polaris and OpenLineage.
+ Contract and Work Arrangement
+ · Initial six-month contract with the Singapore-based data consultancy.
+ · Open to Singapore Citizens and Permanent Residents only.
+ · Based in Singapore, with office attendance expected three to five days per week.
+ · Travel to client sites in Australia or elsewhere in the region may be required for site go-lives.
+ · Participation in the production on-call rotation is required and may involve work outside normal business hours.
+ Hiring Process
+ Please note: The hands-on technical assessment is a mandatory selection stage.
+ 1. Technical assessment and interview based on a practical problem drawn from the role.
+ 2. Team interview covering engineering approach, code review, delivery and incident handling.
+ 3. Client interview with the client's engineering team.
+ How to Apply
+ Email your updated resume in MS Word format to Wills Heng Wei He (EA Personnel Registration No. R1549842) atwills.heng@path-source.com.
+ For Job Seekers Free Resume Review
+ Get a FREE PathSource Resume Score and review report at resume.path-source.com . With your consent, you may also join PathSource Consulting's talent network for suitable future opportunities.
+ Optional career resource only. Participation is not required and does not affect consideration for this vacancy. 
+ For Immediate Consideration
+ Please indicate the following information in your resume:
+ · Current and expected salary
+ · Reason or reasons for leaving
+ · Earliest available commencement date
+ · Confirmation that you are prepared to complete the mandatory technical assessment
+ By submitting an application or resume to us, you consent to PathSource Consulting collecting, using, retaining and disclosing your personal information to prospective employers for recruitment purposes.
+
+MCF skills tags: Business Data Analysis, Data Ingestion, Airflow, Apache Spark, Data Pipeline, Apache POI, Workload Automation, Sizing, Production Support, Telemetry, Apache Kafka, SQL Development, Offset, data integration projects, Incident Management, Data Administration

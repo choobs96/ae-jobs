@@ -1,0 +1,76 @@
+# GovTech | Senior Data Engineer (GeBIZ X)
+# https://www.linkedin.com/jobs/view/4471328984
+
+Senior Data Engineer (GeBIZ X)
+The Ministry of Finance is responsible for the Government Procurement (GP) policies, which govern how government agencies conduct their procurement. With evolving needs of our public officers and changing procurement landscape, MOF is embarking on the Whole of Government Procurement initiative.
+GeBIZ X is the MOF product that would transform the procurement and business experience for WOG public officers and external suppliers.
+ [Who we are looking for]
+ We are seeking a dynamic and strategic Data Engineer to design, build, and scale enterprise-grade data platforms and pipelines for the GeBIZ X product.
+You will play a key role in shaping the product’s data strategy, ensuring high standards in data architecture, performance, scalability, and governance. Beyond core data engineering, you will drive innovation in AI-enabled capabilities, leveraging data as a foundation to unlock insights, improve decision-making, and enhance user outcomes across the public service.
+This role requires strong technical expertise, analytical thinking, and stakeholder engagement skills to collaborate across product, engineering, policy, and business teams to deliver impactful, data-driven solutions.
+Decision-making
+ When making important decisions, we identify overarching goals, weigh up our options, identify impact, and clearly communicate and manage the risks and trade-offs of our decision.
+ Ownership
+ In addition to technical responsibilities, this means having opinions on what is being done and having ideas on what should be done next. Building something that you believe in is the best way to build something good.
+ Continuous Learning
+ Working on new ideas often means not fully understanding what you are working on. Taking time to learn new architectures, frameworks, technologies, and even languages is not just encouraged but essential.
+ Our Team
+ Our team is made up of passionate individuals committed to solving challenges and driving meaningful change. We embrace diversity of thought, encourage experimentation, and foster a culture of continuous learning. As part of this team, you will collaborate with Business Owner, Product Director, Product Managers, UX Designers, Engineers and Business Users to execute the data strategy of GeBIZ X and deliver impactful product outcomes.
+ [What you will be working on]
+ Data Strategy, Engineering & Product Delivery
+ Engage stakeholders to understand business challenges, refine use cases, and identify opportunities to harness data for product and policy decisions.
+ Design, build, and maintain scalable data pipelines, data platforms, and reusable datasets to support analytics and product use cases.
+ Develop data models and architectures to support complex business processes and reporting needs.
+ Implement ETL/ELT processes to ingest, transform, and serve structured and unstructured data.
+ Design and deliver analytics workflows, dashboards, and data products to enable insights and decision-making.
+ Work iteratively with product teams to validate insights, refine analyses, and deliver measurable outcomes.
+ AI, Machine Learning & Advanced Analytics
+ Develop and apply machine learning and Large Language Model (LLM)-based solutions, including prompt engineering and AI-enabled applications where relevant.
+ Operationalise models through MLOps practices, including deployment, monitoring, and lifecycle management.
+ Stay abreast of emerging trends in AI, data architectures, and optimisation techniques, and apply them to enhance product capabilities.
+ Ensure responsible AI practices, including considerations for safety, fairness, and robustness.
+ Data Platforms, Integration & DataOps
+ Design and implement moderately complex data systems and platforms, including supporting infrastructure and integrations.
+ Apply advanced data integration techniques (e.g. streaming, Change Data Capture, message queues) to enable real-time and batch processing.
+ Champion DataOps practices such as automated pipeline deployments, monitoring, and data observability.
+ Ensure data quality, reliability, and integrity across systems and pipelines.
+ Proactively manage and reduce technical debt to ensure long-term system stability.
+ Governance, Risk & Compliance
+ Navigate data privacy, governance, and regulatory requirements, ensuring compliance with policies and standards.
+ Identify risks in data systems and proactively address potential failure points.
+ Align system design with security, performance, and compliance best practices across GovTech platforms.
+ Leadership, Collaboration & Delivery
+ Own and deliver complex data engineering assignments across the full data lifecycle with minimal supervision.
+ Break down complex problems into actionable tasks and coordinate delivery across teams.
+ Drive high-quality, scalable delivery through engineering excellence and best practices.
+ Mentor junior engineers and guide peers through code reviews, architecture discussions, and technical problem-solving.
+ Collaborate effectively with Product Managers, Engineers, Designers, and Business stakeholders to deliver integrated solutions.
+ Strategic Alignment & Organisational Impact
+ Contribute to team strategy, balancing short-term delivery with long-term platform sustainability.
+ Evaluate new technologies and communicate trade-offs to technical and non-technical stakeholders.
+ Participate in cross-team initiatives and align solutions with broader organisational goals.
+ Contribute to GovTech communities, shaping best practices and promoting a culture of continuous learning and improvement.
+ [What we are looking for]
+ Experience & Education
+ Bachelor’s degree or higher in Data Science, Computer Science, Statistics, Applied Mathematics, or a related quantitative discipline.
+ At least 5 years of experience in data engineering.
+ Proven experience delivering data platforms or products in large-scale, enterprise environments.
+ Technical Skills
+ Strong expertise in data modelling (OLTP, OLAP, dimensional modelling).
+ Experience with cloud data platforms and tools (e.g. AWS, Azure Synapse/Microsoft Fabric, Snowflake, Databricks, Redshift, Data Lakes).
+ Proficiency in big data technologies (e.g. Hadoop, Spark, Kafka, Flink).
+ Strong programming skills in Python, Scala, or Java.
+ Experience with CI/CD and DataOps practices (e.g. SHIP-HATS or equivalent).
+ Expertise in data integration techniques (e.g. ETL/ELT, streaming, APIs).
+ AI & Machine Learning (Advantageous)
+ Understanding of machine learning and LLM concepts, including prompt engineering and AI application development.
+ Familiarity with MLOps practices and cloud-based ML deployment.
+ Awareness of responsible AI principles (fairness, robustness, safety).
+ Core Competencies
+ Strong analytical and problem-solving skills, with the ability to translate business problems into data solutions.
+ Ability to design scalable, reliable, and maintainable data systems.
+ Effective communication and stakeholder management skills.
+ Self-driven, adaptable, and able to operate in ambiguity.
+ Strong sense of ownership and commitment to delivery excellence.
+ Passion for leveraging data and technology to deliver public good.
+ Please note that this will be a 2-year fixed term contract.

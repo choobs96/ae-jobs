@@ -1,0 +1,62 @@
+# Goodnotes | Senior Data Engineer (12-mo FTC, renewable)
+# https://job-boards.greenhouse.io/goodnotes/jobs/6127461004
+
+Senior Data Engineer (12-months Fixed-Term Contract – Renewable)
+Good Systems is the parent company behind Goodnotes, where millions of people capture and develop their ideas.
+Goodnotes is where we started, and it’s now the foundation for a growing family of products. By reimagining how we interact with information, we’re bringing together human creativity and the breakthrough capabilities of AI.
+We build products that help people turn good thinking into good work.
+ Our Values
+ Dream big 
+ Be visionary, strategic, and open to innovation
+ Build great things 
+ Work in service of our users, always improving and pushing higher
+ Operate like an owner 
+ Take responsibility with bold decision-making and bias for action
+ Win like a sports team 
+ Be trusting and collaborative while empowering others
+ Learn and grow fast 
+ Never stop learning and iterate fast
+ Share our passion 
+ Share ideas and practice enthusiasm and joy
+ Be user obsessed 
+ Empathetic, inquisitive, practical
+ About the role
+ As a Senior Data Engineer on the Data Platform team, you'll help build the next generation of Goodnotes' data infrastructure, a modern, AI-native platform that enables a small team to operate at exceptional scale. Working alongside Analytics Engineers, Data Scientists, and Product Engineers, you'll design the pipelines, models, and systems that power analytics, experimentation, AI and product decisions across Goodnotes.
+ You'll set the direction for the platform and how we build it: make the architecture calls, explain them, and bring engineers and stakeholders along without formal authority. You'll use AI to improve engineering productivity, automate repetitive work and keep the platform scalable, reliable and easy for others to use.
+ This is a hybrid role based in our Singapore office. This position will initially be a 1-year fixed-term contract.
+ This is the role for you if you're excited to work on:
+ Data pipeline engineering: Build reliable, scalable data pipelines and data models, with the testing, monitoring and lineage that keep them trustworthy.
+ Cloud-native platform design : Design a modern data platform using technologies such as Snowflake, dbt, Iceberg, and ClickHouse on AWS.
+ Real-time data systems: Design and build streaming pipelines and processing systems that power real-time analytics, event processing, and AI-driven products.
+ Self-service analytics: Enable teams across Goodnotes to discover, understand and consume data independently.
+ Leverage AI: Become a more effective engineer and continuously improve how the data platform is built, operated, and maintained.
+ Leading through influence: Take a clear position on architecture and trade-offs, and get Product Engineers, Analytics Engineers and Data Scientists behind it.
+ The skills you will need to be successful:
+ Significant experience as a senior or lead Data Engineer, including setting the technical direction for a data platform.
+ Strong SQL skills and experience designing scalable data pipelines and data models.
+ Experience designing and operating modern cloud-native data platforms on AWS.
+ Experience building batch and streaming data platforms using technologies such as Kafka, Confluent, Apache Pulsar, or similar messaging systems.
+ Strong understanding of data quality, testing, monitoring, observability, and operational excellence.
+ You've changed a technical decision through influence rather than authority, and can explain how.
+ A strong sense of ownership, curiosity, and a passion for building simple solutions to complex problems.
+ Preferred:
+ Experience with dbt and modern analytics engineering practices.
+ Experience with Snowflake or another modern cloud data warehouse.
+ Experience with technologies such as ClickHouse , Apache Iceberg , or modern lakehouse architectures.
+ Experience applying AI to improve engineering productivity and build more intelligent, efficient, and scalable data platforms.
+ The interview process:
+ Talent Intro Call: A conversation with our Talent Acquisition team to dive into your experience, what motivates you, and why you're interested in joining Goodnotes.
+ Take Home Assignment : A project for you to complete at home that will be discussed in the next interview
+ Role-Specific Assessment: A live session focused on the core technical or functional skills required for the role. This is your chance to show us how you tackle real-world challenges.
+ AI Literacy: As an AI-first company, you'll meet with one of our AI champions to discuss your curiosity, understanding, and practical use of AI tools in your daily workflow.
+ Hiring Manager Interview: A deeper dive into your professional background, your preferred ways of working, and the specific impact you'll have within the team.
+ Values-Based Panel Interview: A conversation with 3 team members centered on our company values. We'll discuss past experiences to see how your approach aligns with our culture.
+ What's in it for you:
+ Hybrid Flexible Working: We empower you to work in a way that fits your life, with a hybrid arrangement based from our Singapore office.
+ Customized Growth & Wellness Budgets: We provide dedicated stipends for the things that keep you at your best, including noise-canceling headphones for deep focus, professional training, personal development, and health and wellness activities.
+ Global Connectivity: While we embrace flexible work, we love seeing each other. We provide sponsored visits to our office locations to foster face-to-face collaboration.
+ Company-Wide Offsite: Once a year, we gather the entire global team in person to celebrate our wins, align on our vision, and build lasting connections.
+ Comprehensive Health Coverage: Your well-being is our priority. We offer premium medical insurance for you and your dependents to ensure peace of mind for your whole family.
+ Goodnotes is committed to fostering a diverse, inclusive, and equitable workplace. We welcome applications from individuals of all backgrounds, identities, and experiences, making all employment decisions based strictly on merit, qualifications, and business needs.
+ Note: Employment is contingent upon successful completion of background checks, including verification of employment, education, and criminal records. 
+ By submitting your application, you acknowledge that you have read and understood our Candidate Privacy Notice, which provides important information about the data we collect during the application process. You can find it here .

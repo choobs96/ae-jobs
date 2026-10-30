@@ -1,0 +1,19 @@
+# Eames Consulting (agency) | Data Engineering Manager
+# https://www.mycareersfuture.gov.sg/job/information-technology/data-engineering-manager-eames-consulting-group-8596d4692f29aa4919737a806cf38f51
+
+Data Engineering Manager
+We are partnered with an established firm to look for a Data Engineering Manager.
+ Key Responsibilities
+ • Provide leadership, mentoring, and technical direction to a high-calibre data engineering team while fostering engineering best practices, CI/CD, and system observability.
+ • Lead the architectural design and scaling of a modern cloud-based data lakehouse and transformation framework processing high-volume consumer behavioural events and revenue streams.
+ • Direct system migrations from legacy data setups to next-generation distributed storage and compute frameworks with zero business disruption.
+ • Embed automated data governance, cataloguing, lineage tracking, and regulatory compliance protocols (GDPR/privacy frameworks) directly into data pipelines.
+ Requirements
+ • Bachelor’s or Master’s degree in Computer Science or a relevant STEM discipline.
+ • At least 5 years of engineering people management or technical team leadership experience.
+ • At least 10 years of overall technical background building scalable distributed data systems and robust software solutions.
+ • Deep hands-on knowledge of cloud data engineering, lakehouse storage layers, orchestration tools (e.g., Airflow), and data transformation engines (e.g., dbt).
+ • Strong track record in establishing automated testing, infrastructure-as-code, streaming/batch ingestion, and governance frameworks.
+ • Solid commercial understanding of cloud cost optimization (FinOps) and translating technical architecture into product/business impact.
+
+MCF skills tags: Mentoring, Leadership, Regulatory Compliance, Data Pipeline, Data Warehouse Architectures, Data Migration Services, Cloud Storage, leading technical teams, Azure Data Lake, Data Governance, Computer Science, Data Engineering, Data Lineage, CI/CD, Cataloging, Stem

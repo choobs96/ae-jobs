@@ -1,0 +1,32 @@
+# Traveloka | Senior DE, Data Platform & Warehouse
+# https://www.linkedin.com/jobs/view/4467177890
+
+Senior Data Engineer, Data Platform & Warehouse
+Job Description 
+ Job ID: MJ000353
+ We are looking for a Senior Data Engineer to help build and scale the data foundations supporting our business. You will work on complex data warehouse architecture, pipeline development and migration, data quality, and analytics enablement.
+This role is suited for someone who enjoys solving large-scale data problems end-to-end — from designing robust data models and pipelines to ensuring trusted, consistent data can be easily consumed across the organization.
+Key Responsibilities
+ Design, build, and evolve scalable data warehouse architecture and data models, including raw, staging, core/conformed, and mart layers. 
+ Develop and maintain reliable batch and/or streaming data pipelines, ensuring scalability, performance, and data quality. 
+ Drive the migration and consolidation of legacy data pipelines and platforms, including validation, reconciliation, cutover, and decommissioning. 
+ Establish consistent data definitions, metrics, and modelling standards across business domains. 
+ Build data quality frameworks covering automated testing, freshness monitoring, anomaly detection, and reconciliation. 
+ Partner closely with Analytics, BI, Product, Engineering, and business teams to translate data requirements into scalable solutions and enable self-service analytics. 
+ Improve data discoverability and usability through certified datasets, documentation, semantic models, and reusable data assets. 
+ Contribute to engineering best practices through architecture/design reviews, technical standards, and mentoring of other Data Engineers. 
+ Requirements
+ Minimum 7+ years of Data Engineering experience, building and operating large-scale data systems. 
+ Expert knowledge of data warehousing methodologies (Dimensional Modeling, Star/Snowflake Schema, Data Vault).
+ Hands-on experience with modern big data stacks: Hive, Spark, Flink, Kafka.
+ Deep familiarity with cutting-edge OLAP engines and lakehouse technologies: ClickHouse, StarRocks, Greenplum, Iceberg, or Hudi.
+ Strong proficiency in advanced SQL, query performance tuning, and complex ETL/ELT pipeline optimization.
+ Proficiency in modern workflow orchestration and transformation tools, specifically Airflow and dbt (Data Build Tool), to manage, schedule, and test complex data pipelines.
+ Proven ability to solve complex data problems and partner effectively with Engineering, Analytics/BI, Product, and business stakeholders. 
+ Preferred Qualifications
+ Experience in data migration projects, dependency mapping, cutover strategy, dual-running, reconciliation, and decommissioning. 
+ Experienced in developing cost-saving strategies for AWS Databricks, GCP BigQuery and Tableau
+ Experience in OTA, travel tech, e-commerce, marketplace, fintech, or other high-volume transactional environments. 
+ Experience in one or more of: data warehouse architecture, large-scale data migration/pipeline consolidation, or analytics enablement. 
+ Exposure to CDC, streaming, semantic/metrics layers, or advanced data modelling. 
+ Experience leading technical designs, setting engineering standards, or mentoring other Data Engineers.

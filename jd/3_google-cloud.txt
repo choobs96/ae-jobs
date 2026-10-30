@@ -1,0 +1,28 @@
+# Google Cloud | Forward Deployed Engineer, Data, GenAI
+# https://www.mycareersfuture.gov.sg/job/information-technology/forward-deployed-engineer-data-genai-google-cloud-singapore-google-asia-pacific-332220b4bc075c53b9aab626f27c43da
+
+Forward Deployed Engineer, Data, GenAI, Google Cloud - Singapore
+Product area
+ It's an exciting time to join Google Cloud’s Go-To-Market team, leading the AI revolution for businesses worldwide. You’ll excel by leveraging Google's brand credibility—a legacy built on inventing foundational technologies and proven at scale. We’ll provide you with the world's most advanced AI portfolio, including frontier Gemini models, and the complete Vertex AI platform, helping you to solve business problems. We’re a collaborative culture providing direct access to DeepMind's engineering and research minds, empowering you to solve customer challenges. Join us to be the catalyst for our mission, drive customer success, and define the new cloud era—the market is yours. 
+ Job description
+ We build frontier models and foundational data platforms.
+ As a Forward Deployed Engineers (Data and AI) you will work seamlessly over massive, complex enterprise data lakes, warehouses, and transactional systems in production, under real latency, throughput, and governance constraints. You will embed with the engineering and data architecture organizations of the largest customers to take Google's enterprise data and AI stack BigQuery, Dataproc, Dataflow, Dataform/dbt, Gemini for Data, and code execution sandboxes, from architectural whiteboard to high-throughput, production-grade workflows. You will identify what slows a 25,000-engineer enterprise down when deploying Text-to-SQL, automated evaluations, and data intelligence workflows, design the data systems that fix it, and own them end-to-end: discovery, pipeline engineering, semantic data modeling, evaluation harness setup, rollout, and long-tail reliability.
+ Qualifications
+ Job responsibilities
+ Serve as a developer for complex AI applications, transitioning from rapid prototypes to production-grade agentic workflows that drive measurable Return on Investment (ROI).
+ Co-build with customer engineering teams to instill Google-grade development best practices, ensuring long-term project success and high end-user adoption.
+ Design and build high-throughput batch and streaming data pipelines and utilities to curate multi-terabyte evaluation datasets and execute offline/online evaluation generation jobs for model intelligence mining.
+ Construct scalable ETL/ELT pipelines using Dataform, dbt, BigQuery, or Dataproc to design enterprise data marts and semantic modeling layers specifically engineered to maximize data quality, schema clarity, and accuracy for Text-to-SQL and natural language analytical interfaces.
+ Create mechanisms for large-scale synthetic data generation that maintain strict referential integrity across complex relational schemas, leveraging advanced tools and custom generative utilities for privacy-safe model benchmarking and fine-tuning.
+ Minimum qualifications
+ Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.
+ 5 years of experience with software development and data engineering with SQL, Python, Java, Scala, or Go.
+ Experience with Extract, Transform, Load/Extract, Load, Transform (ETL/ELT) frameworks (e.g., dbt, Dataform) and designing enterprise data modeling layers or data marts.
+ Preferred qualifications
+ Master's degree or PhD in Computer Science, Data Science, Artificial Intelligence, or a related technical field.
+ Experience integrating semantic metadata formats enterprise taxonomies, or ontologies into large-scale data warehouses and lakes.
+ Deep experience designing batch, offline, and online evaluation harnesses and intelligence mining jobs to benchmark LLM capabilities (e.g., Text-to-SQL accuracy, semantic parsing, etc).
+ Advanced expertise in synthetic data generation at scale while maintaining multi-table referential integrity using tools like Faker, Snowfakery, or custom constraint engines.
+ Practical knowledge of configuring and deploying secure code execution harnesses and interpreter sandboxes (e.g., Python/SQL execution environments) for automated data analysis.
+
+MCF skills tags: Generative AI Application Development and Deployment, Medical Degree, Computer Engineering, Data Warehouse Architectures, extract/transform/load, Ontology Engineering, Artificial Intelligence, well-documented code, Data Evaluation, DBT, Customer Development, Data Science, Database Integrity, Benchmarking, Maintain Database Schemas, BigQuery
